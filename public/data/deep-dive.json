@@ -1,0 +1,7037 @@
+[
+  {
+    "poll": "kommunalwahl-2020",
+    "results": [
+      {
+        "area": "01",
+        "result": 8.486532706284738,
+        "name": "Bonn-Zentrum",
+        "areas": [
+          {
+            "area": "011",
+            "result": 11.08695652173913,
+            "name": "City Bonn"
+          },
+          {
+            "area": "012",
+            "result": 7.894736842105263,
+            "name": "Hofgarten"
+          },
+          {
+            "area": "013",
+            "result": 8.358662613981762,
+            "name": "Bundesrechungshof"
+          },
+          {
+            "area": "014/015",
+            "result": 11.796246648793565,
+            "name": " Sandkaule"
+          },
+          {
+            "area": "010 A",
+            "result": 7.2781655034895305,
+            "name": "010 A / Stimmbezirke 011/012"
+          },
+          {
+            "area": "010 B",
+            "result": 6.8493150684931505,
+            "name": "010 B/ Stimmbezirke 013/014/015"
+          }
+        ]
+      },
+      {
+        "area": "02",
+        "result": 8.54421768707483,
+        "name": "Bonn-Castell / Rheindorf-Süd",
+        "areas": [
+          {
+            "area": "021/022",
+            "result": 12.129760225669958,
+            "name": "Wichelshof-West"
+          },
+          {
+            "area": "023",
+            "result": 8.249496981891348,
+            "name": "Am Römerlager"
+          },
+          {
+            "area": "024",
+            "result": 8.188585607940446,
+            "name": "Römerbad"
+          },
+          {
+            "area": "025",
+            "result": 8.524590163934425,
+            "name": "Hafen"
+          },
+          {
+            "area": "020",
+            "result": 7.268597387847814,
+            "name": "020"
+          }
+        ]
+      },
+      {
+        "area": "03",
+        "result": 16.276640200585042,
+        "name": "Innere Nordstadt",
+        "areas": [
+          {
+            "area": "031",
+            "result": 23.089983022071305,
+            "name": "Wolfstr."
+          },
+          {
+            "area": "032",
+            "result": 15.209125475285171,
+            "name": "Ellerviertel"
+          },
+          {
+            "area": "033",
+            "result": 15.051020408163266,
+            "name": "Sternstraße"
+          },
+          {
+            "area": "034",
+            "result": 16.911764705882355,
+            "name": " Heerstraße"
+          },
+          {
+            "area": "035",
+            "result": 20.600858369098713,
+            "name": "Alter Friedhof"
+          },
+          {
+            "area": "030 A",
+            "result": 13.88695045359386,
+            "name": "030 A/Stimmbezirke 031/032/033"
+          },
+          {
+            "area": "030 B",
+            "result": 13.995215311004786,
+            "name": "030 B/Stimmbezirke 034/035"
+          }
+        ]
+      },
+      {
+        "area": "04",
+        "result": 7.78729336785501,
+        "name": "Baumschulviertel / Südstadt",
+        "areas": [
+          {
+            "area": "041",
+            "result": 8.282208588957054,
+            "name": "Landesmuseum"
+          },
+          {
+            "area": "042",
+            "result": 8.598726114649681,
+            "name": "Elisabethkirche"
+          },
+          {
+            "area": "043",
+            "result": 7.9722703639514725,
+            "name": "Baumschulallee"
+          },
+          {
+            "area": "044",
+            "result": 10.396975425330812,
+            "name": "Bonner Talweg"
+          },
+          {
+            "area": "045",
+            "result": 10.597302504816955,
+            "name": "Weberstraße"
+          },
+          {
+            "area": "040 A",
+            "result": 6.802721088435375,
+            "name": "040 A/Stimmbezirke 041/042"
+          },
+          {
+            "area": "040 B",
+            "result": 6.0256410256410255,
+            "name": "040 B/Stimmbezirke 043/044/045"
+          }
+        ]
+      },
+      {
+        "area": "05",
+        "result": 5.336280391537733,
+        "name": "Neu-Tannenbusch / Buschdorf",
+        "areas": [
+          {
+            "area": "051",
+            "result": 5.399568034557236,
+            "name": "Buschdorf-Süd"
+          },
+          {
+            "area": "052",
+            "result": 5.044510385756676,
+            "name": "Buschdorf-Nord"
+          },
+          {
+            "area": "053",
+            "result": 3.7383177570093453,
+            "name": "Neu-Tannenbusch-Mitte"
+          },
+          {
+            "area": "054",
+            "result": 12.56544502617801,
+            "name": "Waldenburger Ring"
+          },
+          {
+            "area": "055",
+            "result": 7.785888077858881,
+            "name": "Neu-Tannenbusch EKZ"
+          },
+          {
+            "area": "056",
+            "result": 6.037735849056604,
+            "name": "Friedlandstraße"
+          },
+          {
+            "area": "050",
+            "result": 3.6611629576453697,
+            "name": "050"
+          }
+        ]
+      },
+      {
+        "area": "06",
+        "result": 4.531330916623511,
+        "name": "Auerberg / Graurheindorf",
+        "areas": [
+          {
+            "area": "061",
+            "result": 8.791208791208792,
+            "name": "Josefshöhe"
+          },
+          {
+            "area": "062",
+            "result": 6.323185011709602,
+            "name": "VAW-Werk"
+          },
+          {
+            "area": "063",
+            "result": 4.918032786885246,
+            "name": "Auerberg-Mitte"
+          },
+          {
+            "area": "064",
+            "result": 5.0682261208577,
+            "name": "Auerberg-Nord"
+          },
+          {
+            "area": "065",
+            "result": 4.324324324324325,
+            "name": "Grau-Rheindorf"
+          },
+          {
+            "area": "060",
+            "result": 2.8553299492385786,
+            "name": "060"
+          }
+        ]
+      },
+      {
+        "area": "07",
+        "result": 7.025344597598933,
+        "name": "Tannenbusch",
+        "areas": [
+          {
+            "area": "071",
+            "result": 10.869565217391305,
+            "name": "Posener Weg"
+          },
+          {
+            "area": "072",
+            "result": 6.722689075630252,
+            "name": "Paulusplatz"
+          },
+          {
+            "area": "073",
+            "result": 8.465608465608465,
+            "name": "Landsberger Straße"
+          },
+          {
+            "area": "074",
+            "result": 7.309941520467836,
+            "name": "Swinemünder Straße"
+          },
+          {
+            "area": "075",
+            "result": 6.702412868632708,
+            "name": "Düne Tannenbusch"
+          },
+          {
+            "area": "070",
+            "result": 5.535499398315283,
+            "name": "070"
+          }
+        ]
+      },
+      {
+        "area": "08",
+        "result": 5.252037428312708,
+        "name": "Dransdorf / Lessenich / Meßdorf",
+        "areas": [
+          {
+            "area": "081",
+            "result": 7.608695652173914,
+            "name": "Dransdorf-Nord"
+          },
+          {
+            "area": "082",
+            "result": 6.730769230769231,
+            "name": "Hölderlinstraße"
+          },
+          {
+            "area": "083",
+            "result": 11.643835616438356,
+            "name": "Dransdorf-Süd"
+          },
+          {
+            "area": "084",
+            "result": 3.8327526132404177,
+            "name": "Meßdorf"
+          },
+          {
+            "area": "085",
+            "result": 5.663716814159292,
+            "name": "Lessenich-Süd"
+          },
+          {
+            "area": "080",
+            "result": 3.648068669527897,
+            "name": "080"
+          }
+        ]
+      },
+      {
+        "area": "09",
+        "result": 7.3751178133836,
+        "name": "Endenich I",
+        "areas": [
+          {
+            "area": "091",
+            "result": 9.046849757673666,
+            "name": "Alt-Endenich"
+          },
+          {
+            "area": "092",
+            "result": 5.936920222634509,
+            "name": "Endenich-West"
+          },
+          {
+            "area": "093",
+            "result": 8.680555555555555,
+            "name": "Endenich-Ost"
+          },
+          {
+            "area": "094",
+            "result": 9.00900900900901,
+            "name": "Endenich-Süd"
+          },
+          {
+            "area": "090",
+            "result": 6.3938618925831205,
+            "name": "090"
+          }
+        ]
+      },
+      {
+        "area": "10",
+        "result": 8.042037925519763,
+        "name": "Poppelsdorf",
+        "areas": [
+          {
+            "area": "101",
+            "result": 8.41889117043121,
+            "name": "Nußallee"
+          },
+          {
+            "area": "102",
+            "result": 6.890130353817504,
+            "name": " Argelanderstraße"
+          },
+          {
+            "area": "103",
+            "result": 9.923664122137405,
+            "name": "Poppelsdorf-West"
+          },
+          {
+            "area": "104",
+            "result": 11.447084233261338,
+            "name": "Poppelsdorf-Ost"
+          },
+          {
+            "area": "105",
+            "result": 7.98004987531172,
+            "name": "Nachtigallenweg"
+          },
+          {
+            "area": "100 A",
+            "result": 6.733668341708543,
+            "name": "100 A/Stimmbezirke 101/102"
+          },
+          {
+            "area": "100 B",
+            "result": 7.538601271571299,
+            "name": "100 B/Stimbezirke 103/104/105"
+          }
+        ]
+      },
+      {
+        "area": "11",
+        "result": 8.29805249788315,
+        "name": "Kessenich",
+        "areas": [
+          {
+            "area": "111/112",
+            "result": 9.037328094302556,
+            "name": "Kessenich-Nord"
+          },
+          {
+            "area": "113/114",
+            "result": 10.795454545454545,
+            "name": "Lotharstraße"
+          },
+          {
+            "area": "115",
+            "result": 9.146341463414634,
+            "name": "Kessenich-Ost"
+          },
+          {
+            "area": "110 A",
+            "result": 5.27681660899654,
+            "name": "110 A/Stimmbezirke 111/112"
+          },
+          {
+            "area": "110 B",
+            "result": 8.404074702886248,
+            "name": "110 B/Stimmbezirke 113/114/115"
+          }
+        ]
+      },
+      {
+        "area": "12",
+        "result": 7.12086220169361,
+        "name": "Dottendorf / Gronau",
+        "areas": [
+          {
+            "area": "121",
+            "result": 8.938547486033519,
+            "name": "Dottendorf-Süd"
+          },
+          {
+            "area": "122",
+            "result": 7.397260273972603,
+            "name": "Dottendorf-Südwest"
+          },
+          {
+            "area": "123",
+            "result": 7.76255707762557,
+            "name": "Dottendorf-Ost"
+          },
+          {
+            "area": "124",
+            "result": 9.821428571428571,
+            "name": "Dottendorf-Mitte"
+          },
+          {
+            "area": "125",
+            "result": 4.866180048661801,
+            "name": "Gronau"
+          },
+          {
+            "area": "126",
+            "result": 10.16949152542373,
+            "name": "Bergstraße"
+          },
+          {
+            "area": "120 A",
+            "result": 4.638218923933209,
+            "name": "120 A/Stimmbezirke 121/122/123"
+          },
+          {
+            "area": "120 B",
+            "result": 6.7002881844380395,
+            "name": "120 B/Stimmbezirke 124/125/126"
+          }
+        ]
+      },
+      {
+        "area": "13",
+        "result": 15.702932310221978,
+        "name": "Äußere Nordstadt",
+        "areas": [
+          {
+            "area": "131",
+            "result": 20.11661807580175,
+            "name": "Nordstraße"
+          },
+          {
+            "area": "132",
+            "result": 20.25518341307815,
+            "name": "Adolfstraße"
+          },
+          {
+            "area": "133",
+            "result": 10.882352941176471,
+            "name": "Sportpark Nord"
+          },
+          {
+            "area": "134",
+            "result": 15.245478036175712,
+            "name": "Chlodwig-Platz"
+          },
+          {
+            "area": "130",
+            "result": 13.175885643256683,
+            "name": "130"
+          }
+        ]
+      },
+      {
+        "area": "14",
+        "result": 7.061163600198907,
+        "name": "Endenich II",
+        "areas": [
+          {
+            "area": "141",
+            "result": 11.188811188811188,
+            "name": "Immenburgstraße"
+          },
+          {
+            "area": "142",
+            "result": 7.129455909943714,
+            "name": "Musikerviertel-Mitte"
+          },
+          {
+            "area": "143",
+            "result": 6.935123042505594,
+            "name": "Musikerviertel-West"
+          },
+          {
+            "area": "144",
+            "result": 5.135135135135135,
+            "name": "Auf dem Hügel Nord"
+          },
+          {
+            "area": "145",
+            "result": 7.310704960835509,
+            "name": "Auf dem Hügel Süd"
+          },
+          {
+            "area": "140 A",
+            "result": 7.331136738056013,
+            "name": "140 A/Stimmbezirke 141/142/143"
+          },
+          {
+            "area": "140 B",
+            "result": 4.798761609907121,
+            "name": "140 B/Stimmbezirke 144/145"
+          }
+        ]
+      },
+      {
+        "area": "15",
+        "result": 4.433713784021071,
+        "name": "Venusberg / Ippendorf",
+        "areas": [
+          {
+            "area": "151",
+            "result": 5.772495755517826,
+            "name": "Klinikum-Venusberg"
+          },
+          {
+            "area": "152",
+            "result": 2.638888888888889,
+            "name": "Haager Weg"
+          },
+          {
+            "area": "153",
+            "result": 5.245901639344262,
+            "name": "Ippendorf-Nord"
+          },
+          {
+            "area": "154",
+            "result": 3.755868544600939,
+            "name": "Ippendorf-Südwest"
+          },
+          {
+            "area": "150 A",
+            "result": 4.596622889305816,
+            "name": "150 A/Stimmbezirke 151/152"
+          },
+          {
+            "area": "150 B",
+            "result": 4.541484716157205,
+            "name": "150 B/Stimmbezirke 153/154"
+          }
+        ]
+      },
+      {
+        "area": "16",
+        "result": 2.5611708209467183,
+        "name": "Röttgen / Ückesdorf",
+        "areas": [
+          {
+            "area": "161",
+            "result": 3.4979423868312756,
+            "name": " Ückesdorf -Ost"
+          },
+          {
+            "area": "162",
+            "result": 2.601156069364162,
+            "name": "Röttgen-West"
+          },
+          {
+            "area": "163",
+            "result": 4.357298474945534,
+            "name": " Röttgen-Nord"
+          },
+          {
+            "area": "164",
+            "result": 3.515625,
+            "name": "Röttgen-Süd"
+          },
+          {
+            "area": "165",
+            "result": 1.5,
+            "name": " Ückesdorf-West"
+          },
+          {
+            "area": "160 A",
+            "result": 2.2961203483768804,
+            "name": "160 A/Stimmbezirke 161/162/163"
+          },
+          {
+            "area": "160 B",
+            "result": 1.4332965821389196,
+            "name": "160 B/Stimmbezirke 164/165"
+          }
+        ]
+      },
+      {
+        "area": "21",
+        "result": 4.448651206814954,
+        "name": "Friesdorf",
+        "areas": [
+          {
+            "area": "211",
+            "result": 5.405405405405405,
+            "name": "Turmhaus"
+          },
+          {
+            "area": "212",
+            "result": 4.511278195488721,
+            "name": "Klufterplatz"
+          },
+          {
+            "area": "213",
+            "result": 3.7946428571428568,
+            "name": "Dreizehnmorgenweg"
+          },
+          {
+            "area": "214",
+            "result": 3.5785288270377733,
+            "name": "In der Kumme"
+          },
+          {
+            "area": "215",
+            "result": 5.955334987593052,
+            "name": "Südstraße"
+          },
+          {
+            "area": "210",
+            "result": 4.249596557288865,
+            "name": "210"
+          }
+        ]
+      },
+      {
+        "area": "22",
+        "result": 3.3966398831263698,
+        "name": "Villenviertel / Rüngsdorf",
+        "areas": [
+          {
+            "area": "221",
+            "result": 3.180914512922465,
+            "name": "Otto-Kühne-Platz"
+          },
+          {
+            "area": "222",
+            "result": 4.070796460176991,
+            "name": "Plittersdorfer Str."
+          },
+          {
+            "area": "223",
+            "result": 2.795698924731183,
+            "name": "Rüngsdorf"
+          },
+          {
+            "area": "224",
+            "result": 5.668016194331984,
+            "name": "Rüngsdorfer Straße"
+          },
+          {
+            "area": "225",
+            "result": 5.970149253731343,
+            "name": "Mendelsohnstraße"
+          },
+          {
+            "area": "226",
+            "result": 4.121475054229935,
+            "name": "Königsplatz"
+          },
+          {
+            "area": "220 A",
+            "result": 2.4572649572649574,
+            "name": "220 A/Stimmbezirke 221/222"
+          },
+          {
+            "area": "220 B",
+            "result": 2.4242424242424243,
+            "name": "220 B/Stimmbezirke 223/224/225/226"
+          }
+        ]
+      },
+      {
+        "area": "23",
+        "result": 4.282524862999797,
+        "name": "Plittersdorf / Hochkreuz",
+        "areas": [
+          {
+            "area": "231",
+            "result": 3.6217303822937628,
+            "name": "Hochkreuz"
+          },
+          {
+            "area": "232",
+            "result": 7.042253521126761,
+            "name": "Hindenburgallee"
+          },
+          {
+            "area": "233",
+            "result": 4.10958904109589,
+            "name": "Neckarstraße"
+          },
+          {
+            "area": "234",
+            "result": 4.814004376367615,
+            "name": "Donatusstraße"
+          },
+          {
+            "area": "235",
+            "result": 5.05050505050505,
+            "name": " Steinstraße"
+          },
+          {
+            "area": "236",
+            "result": 5.301204819277109,
+            "name": "Plittersdorf-Mitte"
+          },
+          {
+            "area": "230 A",
+            "result": 3.6417322834645667,
+            "name": "230 A/Stimmbezirke 231/232/233"
+          },
+          {
+            "area": "230 B",
+            "result": 3.343949044585987,
+            "name": "230 B/Stimmbezirke 234/235/236"
+          }
+        ]
+      },
+      {
+        "area": "24",
+        "result": 4.663487016428193,
+        "name": "Bad Godesberg-Mitte",
+        "areas": [
+          {
+            "area": "241",
+            "result": 1.9607843137254901,
+            "name": "Schweinheim"
+          },
+          {
+            "area": "242",
+            "result": 4.3927648578811365,
+            "name": "Godesberger Burg"
+          },
+          {
+            "area": "243/246",
+            "result": 6.83111954459203,
+            "name": "Bendelviertel"
+          },
+          {
+            "area": "244",
+            "result": 4.322766570605188,
+            "name": "Rigalsche Wiese"
+          },
+          {
+            "area": "245",
+            "result": 6.642066420664207,
+            "name": "Feuerwache GO"
+          },
+          {
+            "area": "240 A",
+            "result": 3.11804008908686,
+            "name": "240 A/Stimmbezirke 241/242"
+          },
+          {
+            "area": "240 B",
+            "result": 5.988700564971752,
+            "name": "240 B/Stimmbezirke 243/244/245/246"
+          }
+        ]
+      },
+      {
+        "area": "25",
+        "result": 3.2867304390483203,
+        "name": "Heiderhof / Muffendorf",
+        "areas": [
+          {
+            "area": "251",
+            "result": 3.218390804597701,
+            "name": " Marienforster Straße"
+          },
+          {
+            "area": "252",
+            "result": 3.8554216867469884,
+            "name": "Heiderhof-Süd"
+          },
+          {
+            "area": "253",
+            "result": 4.508196721311475,
+            "name": "Muffendorf"
+          },
+          {
+            "area": "254",
+            "result": 2.696629213483146,
+            "name": "Lyngsberg"
+          },
+          {
+            "area": "255",
+            "result": 5.694760820045558,
+            "name": "Heiderhof-Nord"
+          },
+          {
+            "area": "250",
+            "result": 2.4258760107816713,
+            "name": "250"
+          }
+        ]
+      },
+      {
+        "area": "26",
+        "result": 4.006447156343541,
+        "name": "Pennenfeld / Lannesdorf",
+        "areas": [
+          {
+            "area": "261",
+            "result": 6.326530612244897,
+            "name": "Behringstraße"
+          },
+          {
+            "area": "262",
+            "result": 1.9417475728155338,
+            "name": "Lannesdorf-West"
+          },
+          {
+            "area": "263",
+            "result": 6.88622754491018,
+            "name": " Pennenfeld-Mitte"
+          },
+          {
+            "area": "264",
+            "result": 5.597964376590331,
+            "name": "Pennenfeld-Süd"
+          },
+          {
+            "area": "265",
+            "result": 3.2119914346895073,
+            "name": "Meisengarten"
+          },
+          {
+            "area": "266",
+            "result": 3.91644908616188,
+            "name": "Lannesdorf-Ost"
+          },
+          {
+            "area": "260",
+            "result": 3.2188841201716736,
+            "name": "260"
+          }
+        ]
+      },
+      {
+        "area": "27",
+        "result": 3.8828013339685565,
+        "name": "Mehlem",
+        "areas": [
+          {
+            "area": "271",
+            "result": 3.2098765432098766,
+            "name": "Utestraße"
+          },
+          {
+            "area": "272",
+            "result": 2.6058631921824107,
+            "name": " Antoniterstraße"
+          },
+          {
+            "area": "273",
+            "result": 3.341288782816229,
+            "name": " Domhofstraße"
+          },
+          {
+            "area": "274",
+            "result": 6.166219839142091,
+            "name": "Mehlem-Mitte"
+          },
+          {
+            "area": "275",
+            "result": 3.090507726269316,
+            "name": "Obermehlem"
+          },
+          {
+            "area": "276",
+            "result": 5.236907730673317,
+            "name": "Mehlem-Rheinaue"
+          },
+          {
+            "area": "270",
+            "result": 3.804347826086957,
+            "name": "270"
+          }
+        ]
+      },
+      {
+        "area": "31",
+        "result": 7.569721115537849,
+        "name": "Beuel-Zentrum",
+        "areas": [
+          {
+            "area": "311",
+            "result": 10.538116591928251,
+            "name": "Beuel-Ost"
+          },
+          {
+            "area": "312",
+            "result": 6.654343807763401,
+            "name": "Agnesstraße"
+          },
+          {
+            "area": "313",
+            "result": 7.450980392156863,
+            "name": "St. Augustiner Straße"
+          },
+          {
+            "area": "314",
+            "result": 8.970099667774086,
+            "name": "Bahnhof Beuel"
+          },
+          {
+            "area": "310",
+            "result": 6.826568265682657,
+            "name": "310"
+          }
+        ]
+      },
+      {
+        "area": "32",
+        "result": 6.928046335486745,
+        "name": "",
+        "areas": [
+          {
+            "area": "321/322",
+            "result": 5.409836065573771,
+            "name": "Schwarzrheindorf-Süd"
+          },
+          {
+            "area": "323/325",
+            "result": 6.731813246471227,
+            "name": "Vilich-Rheindorf-Ost"
+          },
+          {
+            "area": "324",
+            "result": 10.634648370497427,
+            "name": "Combahn"
+          },
+          {
+            "area": "320 A",
+            "result": 6.47748303516348,
+            "name": "320 A/Stimmbezirke 341/342/343"
+          },
+          {
+            "area": "320 B",
+            "result": 6.49867374005305,
+            "name": "320 B/Stimmbezirke 324/325"
+          }
+        ]
+      },
+      {
+        "area": "33",
+        "result": 3.951890034364261,
+        "name": "Pützchen / Bechlinghoven / Holtorf / Ungarten",
+        "areas": [
+          {
+            "area": "331",
+            "result": 1.2195121951219512,
+            "name": "Holtorf"
+          },
+          {
+            "area": "332",
+            "result": 2.904564315352697,
+            "name": "Bechlinghoven"
+          },
+          {
+            "area": "333/334",
+            "result": 7.291666666666667,
+            "name": "Pützchen-West"
+          },
+          {
+            "area": "330",
+            "result": 3.6570743405275783,
+            "name": "330"
+          }
+        ]
+      },
+      {
+        "area": "34",
+        "result": 5.412371134020619,
+        "name": "Beuel-Süd / Limperich",
+        "areas": [
+          {
+            "area": "341",
+            "result": 6.763285024154589,
+            "name": "Ringstr."
+          },
+          {
+            "area": "342",
+            "result": 5.41871921182266,
+            "name": "Beueler Stadion"
+          },
+          {
+            "area": "343",
+            "result": 6.430155210643015,
+            "name": "Heinrich-Heine-Straße"
+          },
+          {
+            "area": "344",
+            "result": 5.3984575835475574,
+            "name": "Küdinghoven-Nord"
+          },
+          {
+            "area": "345",
+            "result": 5.048076923076923,
+            "name": "Beuel-Rheinaue"
+          },
+          {
+            "area": "346",
+            "result": 6.683804627249357,
+            "name": "Derr-Projekt"
+          },
+          {
+            "area": "340 A",
+            "result": 5.3514376996805115,
+            "name": "340 A/Stimmbezirke 341/342/343"
+          },
+          {
+            "area": "340 B",
+            "result": 4.046858359957402,
+            "name": "340 B/Stimmbezirke 344/345/346"
+          }
+        ]
+      },
+      {
+        "area": "35",
+        "result": 3.939260563380282,
+        "name": "Holzlar / Hoholz",
+        "areas": [
+          {
+            "area": "351",
+            "result": 4.395604395604396,
+            "name": "Holzlar-Süd"
+          },
+          {
+            "area": "352",
+            "result": 5.431309904153355,
+            "name": "Kohlkaul Ost"
+          },
+          {
+            "area": "353",
+            "result": 6.133333333333333,
+            "name": "Kohlkaul West"
+          },
+          {
+            "area": "354",
+            "result": 3.225806451612903,
+            "name": "Heidebergen"
+          },
+          {
+            "area": "355",
+            "result": 2.857142857142857,
+            "name": "Holzlar-Mitte"
+          },
+          {
+            "area": "356",
+            "result": 3.237410071942446,
+            "name": "Hoholz/Gielgen"
+          },
+          {
+            "area": "350",
+            "result": 3.8242894056847545,
+            "name": "350"
+          }
+        ]
+      },
+      {
+        "area": "36",
+        "result": 4.301292407108239,
+        "name": "Küdinghoven / Ramersdorf / Oberkassel",
+        "areas": [
+          {
+            "area": "361/362",
+            "result": 4.619565217391304,
+            "name": "Oberkassel-Mitte"
+          },
+          {
+            "area": "363/364",
+            "result": 5.714285714285714,
+            "name": "Oberkassel-Süd I"
+          },
+          {
+            "area": "365/366",
+            "result": 3.4482758620689653,
+            "name": "Oberkassel-Nord"
+          },
+          {
+            "area": "367",
+            "result": 4.773869346733668,
+            "name": "Küdinghoven-Süd"
+          },
+          {
+            "area": "360 A",
+            "result": 3.9301310043668125,
+            "name": "360 A/Stimmbezirke 361/362/363"
+          },
+          {
+            "area": "360 B",
+            "result": 3.948667324777887,
+            "name": "360 B/Stimmbezirke 364/365/366/367"
+          }
+        ]
+      },
+      {
+        "area": "37",
+        "result": 5.1455082243779,
+        "name": "Vilich / Geislar / Vilich-Müldorf",
+        "areas": [
+          {
+            "area": "371/377",
+            "result": 6.2208398133748055,
+            "name": "Geislar-Ost"
+          },
+          {
+            "area": "372",
+            "result": 3.9711191335740073,
+            "name": "Vilich-Müldorf-Nord"
+          },
+          {
+            "area": "373",
+            "result": 6.007751937984496,
+            "name": "Vilich-Müldorf-Süd"
+          },
+          {
+            "area": "374",
+            "result": 7.213114754098362,
+            "name": "Vilich"
+          },
+          {
+            "area": "375",
+            "result": 6.188118811881188,
+            "name": "Neu-Vilich West"
+          },
+          {
+            "area": "376",
+            "result": 4.250559284116331,
+            "name": "Neu-Vilich Ost"
+          },
+          {
+            "area": "370",
+            "result": 4.538174052322478,
+            "name": "370"
+          }
+        ]
+      },
+      {
+        "area": "41",
+        "result": 4.6952401464570315,
+        "name": "Lengsdorf / Brüser Berg",
+        "areas": [
+          {
+            "area": "411",
+            "result": 5.2493438320209975,
+            "name": "Erfurtstraße"
+          },
+          {
+            "area": "412",
+            "result": 4.594594594594595,
+            "name": " Fliegerviertel"
+          },
+          {
+            "area": "413",
+            "result": 5.555555555555555,
+            "name": "Lengsdorf-Mitte"
+          },
+          {
+            "area": "414",
+            "result": 3.462321792260693,
+            "name": "Lengsdorf-Ost"
+          },
+          {
+            "area": "415",
+            "result": 3.463203463203463,
+            "name": "Hardthöhe"
+          },
+          {
+            "area": "416",
+            "result": 10.091743119266056,
+            "name": "Celsiusstr."
+          },
+          {
+            "area": "410 A",
+            "result": 4.712041884816754,
+            "name": "410 A/Stimmbezirke 411/412/413"
+          },
+          {
+            "area": "410 B",
+            "result": 3.4693877551020407,
+            "name": "410 B/Stimmbezirke 414/415/416"
+          }
+        ]
+      },
+      {
+        "area": "42",
+        "result": 5.7234432234432235,
+        "name": "Duisdorf / Finkenhof / Lengsdorf",
+        "areas": [
+          {
+            "area": "421",
+            "result": 9.937888198757763,
+            "name": "St. Augustinus-Kirche"
+          },
+          {
+            "area": "422/426",
+            "result": 7.5,
+            "name": "Köslinstraße"
+          },
+          {
+            "area": "423/425",
+            "result": 4.538799414348463,
+            "name": "Finkenhof"
+          },
+          {
+            "area": "424",
+            "result": 7.046979865771812,
+            "name": "Lengsdorf-West"
+          },
+          {
+            "area": "427",
+            "result": 6.725146198830409,
+            "name": "Ringelsacker"
+          },
+          {
+            "area": "420 A",
+            "result": 4.915514592933948,
+            "name": "420 A/Stimmbezirke 421/422/423"
+          },
+          {
+            "area": "420 B",
+            "result": 3.969270166453265,
+            "name": "420 B/Stimmbezirke 424/425/426/427"
+          }
+        ]
+      },
+      {
+        "area": "43",
+        "result": 5.701536936043629,
+        "name": "Duisdorf / Medinghoven",
+        "areas": [
+          {
+            "area": "431",
+            "result": 8.755760368663594,
+            "name": "Helmholtzstraße"
+          },
+          {
+            "area": "432",
+            "result": 6.65024630541872,
+            "name": "Duisdorf-Nord"
+          },
+          {
+            "area": "433",
+            "result": 4.8517520215633425,
+            "name": "Duisdorf-Ost"
+          },
+          {
+            "area": "434",
+            "result": 5.421686746987952,
+            "name": "Medinghoven-Nord"
+          },
+          {
+            "area": "435",
+            "result": 4.88599348534202,
+            "name": "Malteser Krankenhaus"
+          },
+          {
+            "area": "436",
+            "result": 9.345794392523365,
+            "name": "Medinghoven-Süd"
+          },
+          {
+            "area": "430 A",
+            "result": 5.142083897158322,
+            "name": "430 A/Stimmbezirke 431/432"
+          },
+          {
+            "area": "430 B",
+            "result": 4.54914703493095,
+            "name": "430 B/Stimmbezirke 433/434/435/436"
+          }
+        ]
+      }
+    ],
+    "result": "6.20"
+  },
+  {
+    "poll": "bundestagswahl-2021",
+    "results": [
+      {
+        "area": "01",
+        "result": 6.756313545424729,
+        "name": "Bonn-Zentrum",
+        "areas": [
+          {
+            "area": "011",
+            "result": 8.1419624217119,
+            "name": "City Bonn"
+          },
+          {
+            "area": "012",
+            "result": 8.460236886632826,
+            "name": "Hofgarten"
+          },
+          {
+            "area": "013",
+            "result": 5.952380952380952,
+            "name": "Bundesrechungshof"
+          },
+          {
+            "area": "014",
+            "result": 8.624229979466119,
+            "name": "Sandkaule"
+          },
+          {
+            "area": "015",
+            "result": 10.133333333333333,
+            "name": "Beethovenhalle"
+          },
+          {
+            "area": "010 A",
+            "result": 6.407322654462242,
+            "name": "010 A (Bonn Zentrum)"
+          },
+          {
+            "area": "010 B",
+            "result": 5.211912943871707,
+            "name": "010 B (Bonn Zentrum)"
+          }
+        ]
+      },
+      {
+        "area": "02",
+        "result": 6.567284448025785,
+        "name": "Bonn-Castell / Rheindorf-Süd",
+        "areas": [
+          {
+            "area": "021",
+            "result": 10.08230452674897,
+            "name": "Wichelshof-Ost"
+          },
+          {
+            "area": "022",
+            "result": 8.229426433915211,
+            "name": "Wichelshof-West"
+          },
+          {
+            "area": "023",
+            "result": 4.569420035149385,
+            "name": "Am Römerlager"
+          },
+          {
+            "area": "024",
+            "result": 8.495145631067961,
+            "name": "Römerbad"
+          },
+          {
+            "area": "025",
+            "result": 7.456140350877193,
+            "name": "Hafen"
+          },
+          {
+            "area": "020 A",
+            "result": 6.6770186335403725,
+            "name": "020 A (Bonn-Castell / Rheindorf-Süd)"
+          },
+          {
+            "area": "020 B",
+            "result": 4.659763313609468,
+            "name": "020 B (Bonn-Castell / Rheindorf-Süd)"
+          }
+        ]
+      },
+      {
+        "area": "03",
+        "result": 11.766639276910436,
+        "name": "Innere Nordstadt",
+        "areas": [
+          {
+            "area": "031",
+            "result": 15.916398713826366,
+            "name": "Wolfstr."
+          },
+          {
+            "area": "032",
+            "result": 14.43661971830986,
+            "name": "Ellerviertel"
+          },
+          {
+            "area": "033",
+            "result": 11.597374179431071,
+            "name": "Sternstraße"
+          },
+          {
+            "area": "034",
+            "result": 12.5,
+            "name": " Heerstraße"
+          },
+          {
+            "area": "035",
+            "result": 16.666666666666664,
+            "name": "Alter Friedhof"
+          },
+          {
+            "area": "030 A",
+            "result": 11.436351259360109,
+            "name": "030 A (Innere Nordstadt)"
+          },
+          {
+            "area": "030 B",
+            "result": 8.594956253216674,
+            "name": "030 B (Innere Nordstadt)"
+          }
+        ]
+      },
+      {
+        "area": "04",
+        "result": 6.027969779778171,
+        "name": "Baumschulviertel / Südstadt",
+        "areas": [
+          {
+            "area": "041",
+            "result": 9.30232558139535,
+            "name": "Landesmuseum"
+          },
+          {
+            "area": "042",
+            "result": 6.239999999999999,
+            "name": "Elisabethkirche"
+          },
+          {
+            "area": "043",
+            "result": 6.379310344827586,
+            "name": "Baumschulallee"
+          },
+          {
+            "area": "044",
+            "result": 9.025270758122744,
+            "name": "Bonner Talweg"
+          },
+          {
+            "area": "045",
+            "result": 8.098591549295776,
+            "name": "Weberstraße"
+          },
+          {
+            "area": "040 A",
+            "result": 4.422332780541736,
+            "name": "040 A (Baumschulviertel / Südstadt)"
+          },
+          {
+            "area": "040 B",
+            "result": 5.226881102814474,
+            "name": "040 B (Baumschulviertel / Südstadt)"
+          }
+        ]
+      },
+      {
+        "area": "05",
+        "result": 4.7435315478892415,
+        "name": "Neu-Tannenbusch / Buschdorf",
+        "areas": [
+          {
+            "area": "051",
+            "result": 3.0360531309297913,
+            "name": "Buschdorf-Süd"
+          },
+          {
+            "area": "052",
+            "result": 4.705882352941177,
+            "name": "Buschdorf-Nord"
+          },
+          {
+            "area": "053",
+            "result": 9.392265193370166,
+            "name": "Neu-Tannenbusch-Mitte"
+          },
+          {
+            "area": "054",
+            "result": 7.301587301587302,
+            "name": "Waldenburger Ring"
+          },
+          {
+            "area": "055",
+            "result": 6.208053691275168,
+            "name": "Neu-Tannenbusch EKZ"
+          },
+          {
+            "area": "056",
+            "result": 6.179775280898876,
+            "name": "Friedlandstraße"
+          },
+          {
+            "area": "050",
+            "result": 3.688933200398804,
+            "name": "050 (Neu-Tannenbusch / Buschdorf)"
+          }
+        ]
+      },
+      {
+        "area": "06",
+        "result": 5.854285189943108,
+        "name": "Auerberg / Graurheindorf",
+        "areas": [
+          {
+            "area": "061",
+            "result": 10.392156862745098,
+            "name": "Josefshöhe"
+          },
+          {
+            "area": "062",
+            "result": 4.393673110720562,
+            "name": "VAW-Werk"
+          },
+          {
+            "area": "063",
+            "result": 7.880910683012258,
+            "name": "Auerberg-Mitte"
+          },
+          {
+            "area": "064",
+            "result": 5.705229793977813,
+            "name": "Auerberg-Nord"
+          },
+          {
+            "area": "065",
+            "result": 5.052005943536404,
+            "name": "Grau-Rheindorf"
+          },
+          {
+            "area": "060",
+            "result": 5.050100200400802,
+            "name": "060 (Auerberg / Graurheindorf)"
+          }
+        ]
+      },
+      {
+        "area": "07",
+        "result": 6.463195691202872,
+        "name": "Tannenbusch",
+        "areas": [
+          {
+            "area": "071",
+            "result": 9.6,
+            "name": "Posener Weg"
+          },
+          {
+            "area": "072",
+            "result": 7.633587786259542,
+            "name": "Paulusplatz"
+          },
+          {
+            "area": "073",
+            "result": 5.980066445182724,
+            "name": "Landsberger Straße"
+          },
+          {
+            "area": "074",
+            "result": 7.127429805615551,
+            "name": "Swinemünder Straße"
+          },
+          {
+            "area": "075",
+            "result": 5.394990366088632,
+            "name": "Düne Tannenbusch"
+          },
+          {
+            "area": "070",
+            "result": 5.499612703330752,
+            "name": "070 (Tannenbusch)"
+          }
+        ]
+      },
+      {
+        "area": "08",
+        "result": 5.79282144479782,
+        "name": "Dransdorf / Lessenich / Meßdorf",
+        "areas": [
+          {
+            "area": "081",
+            "result": 8.241758241758241,
+            "name": "Dransdorf-Nord"
+          },
+          {
+            "area": "082",
+            "result": 6.790123456790123,
+            "name": "Hölderlinstraße"
+          },
+          {
+            "area": "083",
+            "result": 6.0889929742388755,
+            "name": "Dransdorf-Süd"
+          },
+          {
+            "area": "084",
+            "result": 4.70383275261324,
+            "name": "Meßdorf"
+          },
+          {
+            "area": "085",
+            "result": 5.790297339593114,
+            "name": "Lessenich-Süd"
+          },
+          {
+            "area": "080",
+            "result": 5.4484088717454195,
+            "name": "080 (Dransdorf / Lessenich / Meßdorf)"
+          }
+        ]
+      },
+      {
+        "area": "09",
+        "result": 7.167672334978972,
+        "name": "Endenich I",
+        "areas": [
+          {
+            "area": "091",
+            "result": 9.76,
+            "name": "Alt-Endenich"
+          },
+          {
+            "area": "092",
+            "result": 6.666666666666667,
+            "name": "Endenich-West"
+          },
+          {
+            "area": "093",
+            "result": 10.031347962382444,
+            "name": "Endenich-Ost"
+          },
+          {
+            "area": "094",
+            "result": 7.281553398058252,
+            "name": "Endenich-Süd"
+          },
+          {
+            "area": "090 A",
+            "result": 5.951602354480053,
+            "name": "090 A (Endenich I)"
+          },
+          {
+            "area": "090 B",
+            "result": 6.232686980609419,
+            "name": "090 B (Endenich I)"
+          }
+        ]
+      },
+      {
+        "area": "10",
+        "result": 6.091370558375635,
+        "name": "Poppelsdorf",
+        "areas": [
+          {
+            "area": "101",
+            "result": 5.977011494252873,
+            "name": "Nußallee"
+          },
+          {
+            "area": "102",
+            "result": 8.239700374531834,
+            "name": " Argelanderstraße"
+          },
+          {
+            "area": "103",
+            "result": 8.842105263157894,
+            "name": "Poppelsdorf-West"
+          },
+          {
+            "area": "104",
+            "result": 9.240246406570842,
+            "name": "Poppelsdorf-Ost"
+          },
+          {
+            "area": "105",
+            "result": 4.921700223713646,
+            "name": "Nachtigallenweg"
+          },
+          {
+            "area": "100 A",
+            "result": 4.891015417331207,
+            "name": "100 A (Poppelsdorf)"
+          },
+          {
+            "area": "100 B",
+            "result": 5.171042163882259,
+            "name": "100 B (Poppelsdorf)"
+          }
+        ]
+      },
+      {
+        "area": "11",
+        "result": 6.357827476038339,
+        "name": "Kessenich",
+        "areas": [
+          {
+            "area": "111",
+            "result": 9.689922480620156,
+            "name": "Kessenich-Mitte"
+          },
+          {
+            "area": "112",
+            "result": 5.86080586080586,
+            "name": "Kessenich-Nord"
+          },
+          {
+            "area": "113",
+            "result": 9.127789046653144,
+            "name": "Reutersiedlung"
+          },
+          {
+            "area": "114",
+            "result": 7.35930735930736,
+            "name": "Lotharstraße"
+          },
+          {
+            "area": "115",
+            "result": 6,
+            "name": "Kessenich-Ost"
+          },
+          {
+            "area": "110 A",
+            "result": 5.555555555555555,
+            "name": "110 A (Kessenich)"
+          },
+          {
+            "area": "110 B",
+            "result": 5.489092188599578,
+            "name": "110 B (Kessenich)"
+          }
+        ]
+      },
+      {
+        "area": "12",
+        "result": 5.920444033302498,
+        "name": "Dottendorf / Gronau",
+        "areas": [
+          {
+            "area": "121",
+            "result": 7.155322862129145,
+            "name": "Dottendorf-Süd"
+          },
+          {
+            "area": "122",
+            "result": 9.560723514211885,
+            "name": "Dottendorf-Südwest"
+          },
+          {
+            "area": "123",
+            "result": 6.289308176100629,
+            "name": "Dottendorf-Ost"
+          },
+          {
+            "area": "124",
+            "result": 5.0682261208577,
+            "name": "Dottendorf-Mitte"
+          },
+          {
+            "area": "125",
+            "result": 6.122448979591836,
+            "name": "Gronau"
+          },
+          {
+            "area": "126",
+            "result": 7.042253521126761,
+            "name": "Bergstraße"
+          },
+          {
+            "area": "120 A",
+            "result": 4.667681380010147,
+            "name": "120 A (Dottendorf / Gronau)"
+          },
+          {
+            "area": "120 B",
+            "result": 5.848329048843188,
+            "name": "120 B (Dottendorf / Gronau)"
+          }
+        ]
+      },
+      {
+        "area": "13",
+        "result": 9.667487684729064,
+        "name": "Äußere Nordstadt",
+        "areas": [
+          {
+            "area": "131",
+            "result": 12.58191349934469,
+            "name": "Nordstraße"
+          },
+          {
+            "area": "132",
+            "result": 11.515151515151516,
+            "name": "Adolfstraße"
+          },
+          {
+            "area": "133",
+            "result": 8.47457627118644,
+            "name": "Sportpark Nord"
+          },
+          {
+            "area": "134",
+            "result": 9.11111111111111,
+            "name": "Chlodwig-Platz"
+          },
+          {
+            "area": "130",
+            "result": 8.630470016207456,
+            "name": "130 (Äußere Nordstadt("
+          }
+        ]
+      },
+      {
+        "area": "14",
+        "result": 7.785336356764929,
+        "name": "Endenich II",
+        "areas": [
+          {
+            "area": "141",
+            "result": 13.675213675213676,
+            "name": "Immenburgstraße"
+          },
+          {
+            "area": "142",
+            "result": 6.16822429906542,
+            "name": "Musikerviertel-Mitte"
+          },
+          {
+            "area": "143",
+            "result": 8.961303462321792,
+            "name": "Musikerviertel-West"
+          },
+          {
+            "area": "144",
+            "result": 6.807511737089202,
+            "name": "Auf dem Hügel Nord"
+          },
+          {
+            "area": "145",
+            "result": 10.337552742616033,
+            "name": "Auf dem Hügel Süd"
+          },
+          {
+            "area": "140 A",
+            "result": 5.917553191489362,
+            "name": "140 A (Endenich II)"
+          },
+          {
+            "area": "140 B",
+            "result": 7.4605451936872305,
+            "name": "140 B (Endenich II)"
+          }
+        ]
+      },
+      {
+        "area": "15",
+        "result": 3.4097059354140353,
+        "name": "Venusberg / Ippendorf",
+        "areas": [
+          {
+            "area": "151",
+            "result": 3.7953795379537953,
+            "name": "Klinikum-Venusberg"
+          },
+          {
+            "area": "152",
+            "result": 2.9494382022471908,
+            "name": "Haager Weg"
+          },
+          {
+            "area": "153",
+            "result": 3.1879194630872485,
+            "name": "Ippendorf-Nord"
+          },
+          {
+            "area": "154",
+            "result": 4.82897384305835,
+            "name": "Ippendorf-Südwest"
+          },
+          {
+            "area": "150 A",
+            "result": 3.3420707732634334,
+            "name": "150 A (Venusberg / Ippendorf)"
+          },
+          {
+            "area": "150 B",
+            "result": 3.1755915317559156,
+            "name": "150 B (Venusberg / Ippendorf)"
+          }
+        ]
+      },
+      {
+        "area": "16",
+        "result": 2.780301653643467,
+        "name": "Röttgen / Ückesdorf",
+        "areas": [
+          {
+            "area": "161",
+            "result": 2.7777777777777777,
+            "name": " Ückesdorf -Ost"
+          },
+          {
+            "area": "162",
+            "result": 5.215419501133787,
+            "name": "Röttgen-West"
+          },
+          {
+            "area": "163",
+            "result": 3.197158081705151,
+            "name": " Röttgen-Nord"
+          },
+          {
+            "area": "164",
+            "result": 3.481624758220503,
+            "name": "Röttgen-Süd"
+          },
+          {
+            "area": "165",
+            "result": 0.8830022075055187,
+            "name": " Ückesdorf-West"
+          },
+          {
+            "area": "160 A",
+            "result": 2.328508495909377,
+            "name": "160 A (Röttgen / Ückesdorf)"
+          },
+          {
+            "area": "160 B",
+            "result": 2.7142857142857144,
+            "name": "160 B (Röttgen / Ückesdorf)"
+          }
+        ]
+      },
+      {
+        "area": "21",
+        "result": 5.13902205177373,
+        "name": "Friesdorf",
+        "areas": [
+          {
+            "area": "211",
+            "result": 5.421686746987952,
+            "name": "Turmhaus"
+          },
+          {
+            "area": "212",
+            "result": 5.942275042444821,
+            "name": "Klufterplatz"
+          },
+          {
+            "area": "213",
+            "result": 5.532786885245901,
+            "name": "Dreizehnmorgenweg"
+          },
+          {
+            "area": "214",
+            "result": 5.162523900573614,
+            "name": "In der Kumme"
+          },
+          {
+            "area": "215",
+            "result": 6.235565819861432,
+            "name": "Südstraße"
+          },
+          {
+            "area": "210 A",
+            "result": 4.102564102564102,
+            "name": "210 A (Friesdorf)"
+          },
+          {
+            "area": "210 B",
+            "result": 5.231235784685367,
+            "name": "210 B (Friesdorf)"
+          }
+        ]
+      },
+      {
+        "area": "22",
+        "result": 3.2653664302600474,
+        "name": "Villenviertel / Rüngsdorf",
+        "areas": [
+          {
+            "area": "221",
+            "result": 2.394106813996317,
+            "name": "Otto-Kühne-Platz"
+          },
+          {
+            "area": "222",
+            "result": 3.690685413005272,
+            "name": "Plittersdorfer Str."
+          },
+          {
+            "area": "223",
+            "result": 3.5476718403547673,
+            "name": "Rüngsdorf"
+          },
+          {
+            "area": "224",
+            "result": 5.330490405117271,
+            "name": "Rüngsdorfer Straße"
+          },
+          {
+            "area": "225",
+            "result": 5.365853658536586,
+            "name": "Mendelsohnstraße"
+          },
+          {
+            "area": "226",
+            "result": 3.898635477582846,
+            "name": "Königsplatz"
+          },
+          {
+            "area": "220 A",
+            "result": 2.882599580712788,
+            "name": "220 A (Villenviertel / Rüngsdorf)"
+          },
+          {
+            "area": "220 B",
+            "result": 2.5721784776902887,
+            "name": "220 B (Villenviertel / Rüngsdorf)"
+          }
+        ]
+      },
+      {
+        "area": "23",
+        "result": 4.17220744680851,
+        "name": "Plittersdorf / Hochkreuz",
+        "areas": [
+          {
+            "area": "231",
+            "result": 3.8548752834467117,
+            "name": "Hochkreuz"
+          },
+          {
+            "area": "232",
+            "result": 8.25515947467167,
+            "name": "Hindenburgallee"
+          },
+          {
+            "area": "233",
+            "result": 4.175824175824175,
+            "name": "Neckarstraße"
+          },
+          {
+            "area": "234",
+            "result": 5.323193916349809,
+            "name": "Donatusstraße"
+          },
+          {
+            "area": "235",
+            "result": 3.237410071942446,
+            "name": " Steinstraße"
+          },
+          {
+            "area": "236",
+            "result": 5.7324840764331215,
+            "name": "Plittersdorf-Mitte"
+          },
+          {
+            "area": "230 A",
+            "result": 3.358992302309307,
+            "name": "230 A (Plittersdorf / Hochkreuz)"
+          },
+          {
+            "area": "230 B",
+            "result": 3.115264797507788,
+            "name": "230 B (Plittersdorf / Hochkreuz)"
+          }
+        ]
+      },
+      {
+        "area": "24",
+        "result": 4.438535487829822,
+        "name": "Bad Godesberg-Mitte",
+        "areas": [
+          {
+            "area": "241",
+            "result": 2.8513238289205702,
+            "name": "Schweinheim"
+          },
+          {
+            "area": "242",
+            "result": 3.4562211981566824,
+            "name": "Godesberger Burg"
+          },
+          {
+            "area": "243",
+            "result": 7.77027027027027,
+            "name": "Bendelviertel"
+          },
+          {
+            "area": "244",
+            "result": 4.668304668304668,
+            "name": "Rigalsche Wiese"
+          },
+          {
+            "area": "245",
+            "result": 4.3604651162790695,
+            "name": "Feuerwache GO"
+          },
+          {
+            "area": "246",
+            "result": 7.235142118863049,
+            "name": "Michaelschule"
+          },
+          {
+            "area": "240 A",
+            "result": 4.176904176904177,
+            "name": "240 A (Bad Godesberg-Mitte)"
+          },
+          {
+            "area": "240 B",
+            "result": 3.972498090145149,
+            "name": "240 B (Bad Godesberg-Mitte)"
+          }
+        ]
+      },
+      {
+        "area": "25",
+        "result": 3.7073362102785405,
+        "name": "Heiderhof / Muffendorf",
+        "areas": [
+          {
+            "area": "251",
+            "result": 4.0169133192389,
+            "name": " Marienforster Straße"
+          },
+          {
+            "area": "252",
+            "result": 4.086021505376344,
+            "name": "Heiderhof-Süd"
+          },
+          {
+            "area": "253",
+            "result": 5.233644859813085,
+            "name": "Muffendorf"
+          },
+          {
+            "area": "254",
+            "result": 3.187250996015936,
+            "name": "Lyngsberg"
+          },
+          {
+            "area": "255",
+            "result": 3.4482758620689653,
+            "name": "Heiderhof-Nord"
+          },
+          {
+            "area": "250 A",
+            "result": 2.8199566160520604,
+            "name": "250 A (Heiderhof / Muffendorf)"
+          },
+          {
+            "area": "250 B",
+            "result": 4.0898155573376105,
+            "name": "250 B (Heiderhof / Muffendorf)"
+          }
+        ]
+      },
+      {
+        "area": "26",
+        "result": 4.692698301523376,
+        "name": "Pennenfeld / Lannesdorf",
+        "areas": [
+          {
+            "area": "261",
+            "result": 5.7407407407407405,
+            "name": "Behringstraße"
+          },
+          {
+            "area": "262",
+            "result": 4.242424242424243,
+            "name": "Lannesdorf-West"
+          },
+          {
+            "area": "263",
+            "result": 9.513274336283185,
+            "name": " Pennenfeld-Mitte"
+          },
+          {
+            "area": "264",
+            "result": 5.185185185185185,
+            "name": "Pennenfeld-Süd"
+          },
+          {
+            "area": "265",
+            "result": 5.384615384615385,
+            "name": "Meisengarten"
+          },
+          {
+            "area": "266",
+            "result": 3.1380753138075312,
+            "name": "Lannesdorf-Ost"
+          },
+          {
+            "area": "260 A",
+            "result": 4.511834319526628,
+            "name": "260 A (Pennenfeld / Lannesdorf)"
+          },
+          {
+            "area": "260 B",
+            "result": 3.073463268365817,
+            "name": "260 B (Pennenfeld / Lannesdorf)"
+          }
+        ]
+      },
+      {
+        "area": "27",
+        "result": 4.096429218778322,
+        "name": "Mehlem",
+        "areas": [
+          {
+            "area": "271",
+            "result": 5.273833671399594,
+            "name": "Utestraße"
+          },
+          {
+            "area": "272",
+            "result": 4.829545454545454,
+            "name": " Antoniterstraße"
+          },
+          {
+            "area": "273",
+            "result": 6.11353711790393,
+            "name": " Domhofstraße"
+          },
+          {
+            "area": "274",
+            "result": 5.2410901467505235,
+            "name": "Mehlem-Mitte"
+          },
+          {
+            "area": "275",
+            "result": 3.4602076124567476,
+            "name": "Obermehlem"
+          },
+          {
+            "area": "276",
+            "result": 4.631578947368421,
+            "name": "Mehlem-Rheinaue"
+          },
+          {
+            "area": "270 A",
+            "result": 3.592814371257485,
+            "name": "270 A (Mehlem)"
+          },
+          {
+            "area": "270 B",
+            "result": 2.967359050445104,
+            "name": "270 B (Mehlem)"
+          }
+        ]
+      },
+      {
+        "area": "31",
+        "result": 6.959126145172657,
+        "name": "Beuel-Zentrum",
+        "areas": [
+          {
+            "area": "311",
+            "result": 9.710391822827939,
+            "name": "Beuel-Ost"
+          },
+          {
+            "area": "312",
+            "result": 5.528455284552845,
+            "name": "Agnesstraße"
+          },
+          {
+            "area": "313",
+            "result": 9.212730318257957,
+            "name": "St. Augustiner Straße"
+          },
+          {
+            "area": "314",
+            "result": 7.533234859675036,
+            "name": "Bahnhof Beuel"
+          },
+          {
+            "area": "310 A",
+            "result": 5.838967424708052,
+            "name": "310 A (Beuel-Zentrum)"
+          },
+          {
+            "area": "310 B",
+            "result": 6.547997457088366,
+            "name": "310 B (Beuel-Zentrum)"
+          }
+        ]
+      },
+      {
+        "area": "32",
+        "result": 5.127367733507512,
+        "name": "Schwarzrheindorf/Vilich-Rheindorf/Combahnviertel",
+        "areas": [
+          {
+            "area": "321",
+            "result": 6.460674157303371,
+            "name": "Vilich-Rheindorf-West"
+          },
+          {
+            "area": "322",
+            "result": 6.727828746177369,
+            "name": "Schwarzrheindorf-Süd"
+          },
+          {
+            "area": "323",
+            "result": 4.225352112676056,
+            "name": "Schwarzrheindorf-Nord"
+          },
+          {
+            "area": "324",
+            "result": 8.493589743589745,
+            "name": "Combahn"
+          },
+          {
+            "area": "325",
+            "result": 7.583774250440917,
+            "name": "Vilich-Rheindorf-Ost"
+          },
+          {
+            "area": "320 A",
+            "result": 3.923647932131495,
+            "name": "320 A (Schwarzrheindorf/Vilich-Rheindorf/Combahnviertel)"
+          },
+          {
+            "area": "320 B",
+            "result": 4.179566563467492,
+            "name": "320 B (Schwarzrheindorf/Vilich-Rheindorf/Combahnviertel)"
+          }
+        ]
+      },
+      {
+        "area": "33",
+        "result": 4.772320540862995,
+        "name": "Pützchen / Bechlinghoven / Holtorf / Ungarten",
+        "areas": [
+          {
+            "area": "331",
+            "result": 2.547770700636943,
+            "name": "Holtorf"
+          },
+          {
+            "area": "332",
+            "result": 4.113475177304964,
+            "name": "Bechlinghoven"
+          },
+          {
+            "area": "333",
+            "result": 8.64406779661017,
+            "name": "Pützchen-Ost"
+          },
+          {
+            "area": "334",
+            "result": 8.23045267489712,
+            "name": "Pützchen-West"
+          },
+          {
+            "area": "330 A",
+            "result": 3.898635477582846,
+            "name": "330 A (Pützchen / Bechlinghoven / Holtorf / Ungarten)"
+          },
+          {
+            "area": "330 B",
+            "result": 4.070305272895467,
+            "name": "330 B (Pützchen / Bechlinghoven / Holtorf / Ungarten)"
+          }
+        ]
+      },
+      {
+        "area": "34",
+        "result": 4.520433694745622,
+        "name": "Beuel-Süd / Limperich",
+        "areas": [
+          {
+            "area": "341",
+            "result": 4.867256637168142,
+            "name": "Ringstr."
+          },
+          {
+            "area": "342",
+            "result": 6.392694063926941,
+            "name": "Beueler Stadion"
+          },
+          {
+            "area": "343",
+            "result": 5.019305019305019,
+            "name": "Heinrich-Heine-Straße"
+          },
+          {
+            "area": "344",
+            "result": 4.921700223713646,
+            "name": "Küdinghoven-Nord"
+          },
+          {
+            "area": "345",
+            "result": 5.298013245033113,
+            "name": "Beuel-Rheinaue"
+          },
+          {
+            "area": "346",
+            "result": 5.387931034482758,
+            "name": "Derr-Projekt"
+          },
+          {
+            "area": "340 A",
+            "result": 3.3189920098340506,
+            "name": "340 A (Beuel-Süd / Limperich)"
+          },
+          {
+            "area": "340 B",
+            "result": 4.385964912280701,
+            "name": "340 B (Beuel-Süd / Limperich)"
+          }
+        ]
+      },
+      {
+        "area": "35",
+        "result": 4.044539053545112,
+        "name": "Holzlar / Hoholz",
+        "areas": [
+          {
+            "area": "351",
+            "result": 4.772234273318872,
+            "name": "Holzlar-Süd"
+          },
+          {
+            "area": "352",
+            "result": 5.699481865284974,
+            "name": "Kohlkaul Ost"
+          },
+          {
+            "area": "353",
+            "result": 5.89171974522293,
+            "name": "Kohlkaul West"
+          },
+          {
+            "area": "354",
+            "result": 4.3999999999999995,
+            "name": "Heidebergen"
+          },
+          {
+            "area": "355",
+            "result": 4.068522483940043,
+            "name": "Holzlar-Mitte"
+          },
+          {
+            "area": "356",
+            "result": 2.9209621993127146,
+            "name": "Hoholz/Gielgen"
+          },
+          {
+            "area": "350 A",
+            "result": 3.0979827089337175,
+            "name": "350 A (Holzlar / Hoholz)"
+          },
+          {
+            "area": "350 B",
+            "result": 3.7370242214532867,
+            "name": "350 B (Holzlar / Hoholz)"
+          }
+        ]
+      },
+      {
+        "area": "36",
+        "result": 4.2543021032504775,
+        "name": "Küdinghoven / Ramersdorf / Oberkassel",
+        "areas": [
+          {
+            "area": "361",
+            "result": 6.20347394540943,
+            "name": "Oberkassel-Nord"
+          },
+          {
+            "area": "362",
+            "result": 5.14018691588785,
+            "name": "Oberkassel-Mitte"
+          },
+          {
+            "area": "363",
+            "result": 5.07399577167019,
+            "name": "Oberkassel-Süd I"
+          },
+          {
+            "area": "364",
+            "result": 5.111111111111112,
+            "name": "Oberkassel-Süd II"
+          },
+          {
+            "area": "365",
+            "result": 3.7280701754385963,
+            "name": "Oberkassel-Nord"
+          },
+          {
+            "area": "366",
+            "result": 3.2448377581120944,
+            "name": "Ramersdorf"
+          },
+          {
+            "area": "367",
+            "result": 5.952380952380952,
+            "name": "Küdinghoven-Süd"
+          },
+          {
+            "area": "360 A",
+            "result": 3.9871382636655945,
+            "name": "360 A (Küdinghoven / Ramersdorf / Oberkassel)"
+          },
+          {
+            "area": "360 B",
+            "result": 3.3105022831050226,
+            "name": "360 B (Küdinghoven / Ramersdorf / Oberkassel)"
+          }
+        ]
+      },
+      {
+        "area": "37",
+        "result": 3.8730158730158735,
+        "name": "Vilich / Geislar / Vilich-Müldorf",
+        "areas": [
+          {
+            "area": "371",
+            "result": 4,
+            "name": "Geislar-West"
+          },
+          {
+            "area": "372",
+            "result": 4.3076923076923075,
+            "name": "Vilich-Müldorf-Nord"
+          },
+          {
+            "area": "373",
+            "result": 3.505535055350553,
+            "name": "Vilich-Müldorf-Süd"
+          },
+          {
+            "area": "374",
+            "result": 3.640776699029126,
+            "name": "Vilich"
+          },
+          {
+            "area": "375",
+            "result": 5.2410901467505235,
+            "name": "Neu-Vilich West"
+          },
+          {
+            "area": "376",
+            "result": 1.5065913370998116,
+            "name": "Neu-Vilich Ost"
+          },
+          {
+            "area": "377",
+            "result": 4.337349397590361,
+            "name": "Geislar-Ost"
+          },
+          {
+            "area": "370 A",
+            "result": 4.127358490566038,
+            "name": "370 A (Vilich / Geislar / Vilich-Müldorf)"
+          },
+          {
+            "area": "370 B",
+            "result": 3.8232795242141036,
+            "name": "370 B (Vilich / Geislar / Vilich-Müldorf)"
+          }
+        ]
+      },
+      {
+        "area": "41",
+        "result": 4.405071521456437,
+        "name": "Lengsdorf / Brüser Berg",
+        "areas": [
+          {
+            "area": "411",
+            "result": 3.7254901960784315,
+            "name": "Erfurtstraße"
+          },
+          {
+            "area": "412",
+            "result": 6.272401433691756,
+            "name": " Fliegerviertel"
+          },
+          {
+            "area": "413",
+            "result": 5.745062836624776,
+            "name": "Lengsdorf-Mitte"
+          },
+          {
+            "area": "414",
+            "result": 5.030181086519115,
+            "name": "Lengsdorf-Ost"
+          },
+          {
+            "area": "415",
+            "result": 3.3391915641476277,
+            "name": "Hardthöhe"
+          },
+          {
+            "area": "416",
+            "result": 7.44920993227991,
+            "name": "Celsiusstr."
+          },
+          {
+            "area": "410 A",
+            "result": 3.864734299516908,
+            "name": "410 A (Lengsdorf / Brüser Berg)"
+          },
+          {
+            "area": "410 B",
+            "result": 3.31421287444232,
+            "name": "410 B (Lengsdorf / Brüser Berg)"
+          }
+        ]
+      },
+      {
+        "area": "42",
+        "result": 4.864253393665159,
+        "name": "Duisdorf / Finkenhof / Lengsdorf",
+        "areas": [
+          {
+            "area": "421",
+            "result": 6.870229007633588,
+            "name": "St. Augustinus-Kirche"
+          },
+          {
+            "area": "422",
+            "result": 6.265060240963856,
+            "name": "Köslinstraße"
+          },
+          {
+            "area": "423",
+            "result": 5.444126074498568,
+            "name": "Duisdorf-Mitte"
+          },
+          {
+            "area": "424",
+            "result": 5.283757338551859,
+            "name": "Lengsdorf-West"
+          },
+          {
+            "area": "425",
+            "result": 4.3478260869565215,
+            "name": "Finkenhof"
+          },
+          {
+            "area": "426",
+            "result": 8.064516129032258,
+            "name": "Augustinusstraße"
+          },
+          {
+            "area": "427",
+            "result": 6.5400843881856545,
+            "name": "Ringelsacker"
+          },
+          {
+            "area": "420 A",
+            "result": 3.669724770642202,
+            "name": "420 A (Duisdorf / Finkenhof / Lengsdorf)"
+          },
+          {
+            "area": "420 B",
+            "result": 3.6973833902161544,
+            "name": "420 B (Duisdorf / Finkenhof / Lengsdorf)"
+          }
+        ]
+      },
+      {
+        "area": "43",
+        "result": 4.986301369863014,
+        "name": "Duisdorf / Medinghoven",
+        "areas": [
+          {
+            "area": "431",
+            "result": 9.262759924385634,
+            "name": "Helmholtzstraße"
+          },
+          {
+            "area": "432",
+            "result": 3.78619153674833,
+            "name": "Duisdorf-Nord"
+          },
+          {
+            "area": "433",
+            "result": 6.099815157116451,
+            "name": "Duisdorf-Ost"
+          },
+          {
+            "area": "434",
+            "result": 4.356435643564356,
+            "name": "Medinghoven-Nord"
+          },
+          {
+            "area": "435",
+            "result": 5.5696202531645564,
+            "name": "Malteser Krankenhaus"
+          },
+          {
+            "area": "436",
+            "result": 5.72289156626506,
+            "name": "Medinghoven-Süd"
+          },
+          {
+            "area": "430 A",
+            "result": 3.288490284005979,
+            "name": "430 A (Duisdorf / Medinghoven )"
+          },
+          {
+            "area": "430 B",
+            "result": 4.834054834054834,
+            "name": "430 B (Duisdorf / Medinghoven)"
+          }
+        ]
+      }
+    ],
+    "result": "5.44"
+  },
+  {
+    "poll": "landtagswahl-2022",
+    "results": [
+      {
+        "area": "01",
+        "result": 4.015135589657347,
+        "name": "Bonn-Zentrum",
+        "areas": [
+          {
+            "area": "011",
+            "result": 3.579952267303103,
+            "name": "City Bonn"
+          },
+          {
+            "area": "012",
+            "result": 4.635761589403973,
+            "name": "Hofgarten"
+          },
+          {
+            "area": "013",
+            "result": 4.6801872074882995,
+            "name": "Bundesrechungshof"
+          },
+          {
+            "area": "014",
+            "result": 5.542168674698795,
+            "name": "Sandkaule"
+          },
+          {
+            "area": "015",
+            "result": 5.590062111801243,
+            "name": "Beethovenhalle"
+          },
+          {
+            "area": "010 A",
+            "result": 3.048264182895851,
+            "name": "010 A (Bonn Zentrum)"
+          },
+          {
+            "area": "010 B",
+            "result": 3.4893617021276593,
+            "name": "010 B (Bonn Zentrum)"
+          }
+        ]
+      },
+      {
+        "area": "02",
+        "result": 4.336188436830835,
+        "name": "Bonn-Castell / Rheindorf-Süd",
+        "areas": [
+          {
+            "area": "021",
+            "result": 4.646017699115045,
+            "name": "Wichelshof-Ost"
+          },
+          {
+            "area": "022",
+            "result": 6.865671641791045,
+            "name": "Wichelshof-West"
+          },
+          {
+            "area": "023",
+            "result": 4.022988505747127,
+            "name": "Am Römerlager"
+          },
+          {
+            "area": "024",
+            "result": 5.248618784530387,
+            "name": "Römerbad"
+          },
+          {
+            "area": "025",
+            "result": 6.228373702422145,
+            "name": "Hafen"
+          },
+          {
+            "area": "020 A",
+            "result": 3.888888888888889,
+            "name": "020 A (Bonn-Castell / Rheindorf-Süd)"
+          },
+          {
+            "area": "020 B",
+            "result": 2.853881278538813,
+            "name": "020 B (Bonn-Castell / Rheindorf-Süd)"
+          }
+        ]
+      },
+      {
+        "area": "03",
+        "result": 6.7011419952596425,
+        "name": "Innere Nordstadt",
+        "areas": [
+          {
+            "area": "031",
+            "result": 8.463949843260188,
+            "name": "Wolfstr."
+          },
+          {
+            "area": "032",
+            "result": 8.686440677966102,
+            "name": "Ellerviertel"
+          },
+          {
+            "area": "033",
+            "result": 5.483028720626632,
+            "name": "Sternstraße"
+          },
+          {
+            "area": "034",
+            "result": 5.58659217877095,
+            "name": " Heerstraße"
+          },
+          {
+            "area": "035",
+            "result": 13.65979381443299,
+            "name": "Alter Friedhof"
+          },
+          {
+            "area": "030 A",
+            "result": 5.37037037037037,
+            "name": "030 A (Innere Nordstadt)"
+          },
+          {
+            "area": "030 B",
+            "result": 4.724409448818897,
+            "name": "030 B (Innere Nordstadt)"
+          }
+        ]
+      },
+      {
+        "area": "04",
+        "result": 3.2371983519717484,
+        "name": "Baumschulviertel / Südstadt",
+        "areas": [
+          {
+            "area": "041",
+            "result": 4.788732394366197,
+            "name": "Landesmuseum"
+          },
+          {
+            "area": "042",
+            "result": 3.0206677265500796,
+            "name": "Elisabethkirche"
+          },
+          {
+            "area": "043",
+            "result": 3.7704918032786887,
+            "name": "Baumschulallee"
+          },
+          {
+            "area": "044",
+            "result": 3.616636528028933,
+            "name": "Bonner Talweg"
+          },
+          {
+            "area": "045",
+            "result": 3.763440860215054,
+            "name": "Weberstraße"
+          },
+          {
+            "area": "040 A",
+            "result": 2.9184549356223175,
+            "name": "040 A (Baumschulviertel / Südstadt)"
+          },
+          {
+            "area": "040 B",
+            "result": 2.526487367563162,
+            "name": "040 B (Baumschulviertel / Südstadt)"
+          }
+        ]
+      },
+      {
+        "area": "05",
+        "result": 2.7063147343802205,
+        "name": "Neu-Tannenbusch / Buschdorf",
+        "areas": [
+          {
+            "area": "051",
+            "result": 1.160092807424594,
+            "name": "Buschdorf-Süd"
+          },
+          {
+            "area": "052",
+            "result": 3.353658536585366,
+            "name": "Buschdorf-Nord"
+          },
+          {
+            "area": "053",
+            "result": 7.142857142857142,
+            "name": "Neu-Tannenbusch-Mitte"
+          },
+          {
+            "area": "054",
+            "result": 7.5,
+            "name": "Waldenburger Ring"
+          },
+          {
+            "area": "055",
+            "result": 3.324808184143223,
+            "name": "Neu-Tannenbusch EKZ"
+          },
+          {
+            "area": "056",
+            "result": 3.515625,
+            "name": "Friedlandstraße"
+          },
+          {
+            "area": "050",
+            "result": 1.8615040953090096,
+            "name": "050 (Neu-Tannenbusch / Buschdorf)"
+          }
+        ]
+      },
+      {
+        "area": "06",
+        "result": 3.087248322147651,
+        "name": "Auerberg / Graurheindorf",
+        "areas": [
+          {
+            "area": "061",
+            "result": 6.037735849056604,
+            "name": "Josefshöhe"
+          },
+          {
+            "area": "062",
+            "result": 2.7918781725888326,
+            "name": "VAW-Werk"
+          },
+          {
+            "area": "063",
+            "result": 5.011933174224343,
+            "name": "Auerberg-Mitte"
+          },
+          {
+            "area": "064",
+            "result": 2.9227557411273484,
+            "name": "Auerberg-Nord"
+          },
+          {
+            "area": "065",
+            "result": 3.019538188277087,
+            "name": "Grau-Rheindorf"
+          },
+          {
+            "area": "060",
+            "result": 2.2429906542056073,
+            "name": "060 (Auerberg / Graurheindorf)"
+          }
+        ]
+      },
+      {
+        "area": "07",
+        "result": 4.831932773109244,
+        "name": "Tannenbusch",
+        "areas": [
+          {
+            "area": "071",
+            "result": 7.092198581560284,
+            "name": "Posener Weg"
+          },
+          {
+            "area": "072",
+            "result": 4.081632653061225,
+            "name": "Paulusplatz"
+          },
+          {
+            "area": "073",
+            "result": 3.932584269662921,
+            "name": "Landsberger Straße"
+          },
+          {
+            "area": "074",
+            "result": 5.514705882352941,
+            "name": "Swinemünder Straße"
+          },
+          {
+            "area": "075",
+            "result": 5.376344086021505,
+            "name": "Düne Tannenbusch"
+          },
+          {
+            "area": "070",
+            "result": 4.41527446300716,
+            "name": "070 (Tannenbusch)"
+          }
+        ]
+      },
+      {
+        "area": "08",
+        "result": 2.4460894753781783,
+        "name": "Dransdorf / Lessenich / Meßdorf",
+        "areas": [
+          {
+            "area": "081",
+            "result": 5.0691244239631335,
+            "name": "Dransdorf-Nord"
+          },
+          {
+            "area": "082",
+            "result": 2.941176470588235,
+            "name": "Hölderlinstraße"
+          },
+          {
+            "area": "083",
+            "result": 2.1505376344086025,
+            "name": "Dransdorf-Süd"
+          },
+          {
+            "area": "084",
+            "result": 1.7341040462427744,
+            "name": "Meßdorf"
+          },
+          {
+            "area": "085",
+            "result": 2.9038112522686026,
+            "name": "Lessenich-Süd"
+          },
+          {
+            "area": "080",
+            "result": 2.135231316725979,
+            "name": "080 (Dransdorf / Lessenich / Meßdorf)"
+          }
+        ]
+      },
+      {
+        "area": "09",
+        "result": 3.9359267734553773,
+        "name": "Endenich I",
+        "areas": [
+          {
+            "area": "091",
+            "result": 4.213938411669368,
+            "name": "Alt-Endenich"
+          },
+          {
+            "area": "092",
+            "result": 5.206463195691203,
+            "name": "Endenich-West"
+          },
+          {
+            "area": "093",
+            "result": 5.177993527508091,
+            "name": "Endenich-Ost"
+          },
+          {
+            "area": "094",
+            "result": 4.440789473684211,
+            "name": "Endenich-Süd"
+          },
+          {
+            "area": "090 A",
+            "result": 3.009027081243731,
+            "name": "090 A (Endenich I)"
+          },
+          {
+            "area": "090 B",
+            "result": 2.877697841726619,
+            "name": "090 B (Endenich I)"
+          }
+        ]
+      },
+      {
+        "area": "10",
+        "result": 3.089693336407655,
+        "name": "Poppelsdorf",
+        "areas": [
+          {
+            "area": "101",
+            "result": 2.882483370288248,
+            "name": "Nußallee"
+          },
+          {
+            "area": "102",
+            "result": 3.0852994555353903,
+            "name": " Argelanderstraße"
+          },
+          {
+            "area": "103",
+            "result": 3.8901601830663615,
+            "name": "Poppelsdorf-West"
+          },
+          {
+            "area": "104",
+            "result": 7.424593967517401,
+            "name": "Poppelsdorf-Ost"
+          },
+          {
+            "area": "105",
+            "result": 2.9055690072639226,
+            "name": "Nachtigallenweg"
+          },
+          {
+            "area": "100 A",
+            "result": 2.0408163265306123,
+            "name": "100 A (Poppelsdorf)"
+          },
+          {
+            "area": "100 B",
+            "result": 2.1463414634146343,
+            "name": "100 B (Poppelsdorf)"
+          }
+        ]
+      },
+      {
+        "area": "11",
+        "result": 3.695293146160198,
+        "name": "Kessenich",
+        "areas": [
+          {
+            "area": "111",
+            "result": 5.653021442495127,
+            "name": "Kessenich-Mitte"
+          },
+          {
+            "area": "112",
+            "result": 3.3333333333333335,
+            "name": "Kessenich-Nord"
+          },
+          {
+            "area": "113",
+            "result": 6.403940886699508,
+            "name": "Reutersiedlung"
+          },
+          {
+            "area": "114",
+            "result": 4.326923076923077,
+            "name": "Lotharstraße"
+          },
+          {
+            "area": "115",
+            "result": 3.6809815950920246,
+            "name": "Kessenich-Ost"
+          },
+          {
+            "area": "110 A",
+            "result": 2.9718875502008033,
+            "name": "110 A (Kessenich)"
+          },
+          {
+            "area": "110 B",
+            "result": 2.6720647773279356,
+            "name": "110 B (Kessenich)"
+          }
+        ]
+      },
+      {
+        "area": "12",
+        "result": 3.026775320139697,
+        "name": "Dottendorf / Gronau",
+        "areas": [
+          {
+            "area": "121",
+            "result": 3.7037037037037033,
+            "name": "Dottendorf-Süd"
+          },
+          {
+            "area": "122",
+            "result": 3.39943342776204,
+            "name": "Dottendorf-Südwest"
+          },
+          {
+            "area": "123",
+            "result": 3.263403263403263,
+            "name": "Dottendorf-Ost"
+          },
+          {
+            "area": "124",
+            "result": 3.3632286995515694,
+            "name": "Dottendorf-Mitte"
+          },
+          {
+            "area": "125",
+            "result": 3.160270880361174,
+            "name": "Gronau"
+          },
+          {
+            "area": "126",
+            "result": 3.6821705426356592,
+            "name": "Bergstraße"
+          },
+          {
+            "area": "120 A",
+            "result": 2.265625,
+            "name": "120 A (Dottendorf / Gronau)"
+          },
+          {
+            "area": "120 B",
+            "result": 2.8960817717206133,
+            "name": "120 B (Dottendorf / Gronau)"
+          }
+        ]
+      },
+      {
+        "area": "13",
+        "result": 6.212424849699398,
+        "name": "Äußere Nordstadt",
+        "areas": [
+          {
+            "area": "131",
+            "result": 7.976366322008863,
+            "name": "Nordstraße"
+          },
+          {
+            "area": "132",
+            "result": 8.566978193146417,
+            "name": "Adolfstraße"
+          },
+          {
+            "area": "133",
+            "result": 7.017543859649122,
+            "name": "Sportpark Nord"
+          },
+          {
+            "area": "134",
+            "result": 4.607046070460704,
+            "name": "Chlodwig-Platz"
+          },
+          {
+            "area": "130",
+            "result": 4.671052631578947,
+            "name": "130 (Äußere Nordstadt("
+          }
+        ]
+      },
+      {
+        "area": "14",
+        "result": 3.7911301859799713,
+        "name": "Endenich II",
+        "areas": [
+          {
+            "area": "141",
+            "result": 7.638888888888889,
+            "name": "Immenburgstraße"
+          },
+          {
+            "area": "142",
+            "result": 2.0793950850661624,
+            "name": "Musikerviertel-Mitte"
+          },
+          {
+            "area": "143",
+            "result": 4.690831556503198,
+            "name": "Musikerviertel-West"
+          },
+          {
+            "area": "144",
+            "result": 3.2828282828282833,
+            "name": "Auf dem Hügel Nord"
+          },
+          {
+            "area": "145",
+            "result": 5.793450881612091,
+            "name": "Auf dem Hügel Süd"
+          },
+          {
+            "area": "140 A",
+            "result": 2.1121039805036554,
+            "name": "140 A (Endenich II)"
+          },
+          {
+            "area": "140 B",
+            "result": 4.1891891891891895,
+            "name": "140 B (Endenich II)"
+          }
+        ]
+      },
+      {
+        "area": "15",
+        "result": 1.837329150795429,
+        "name": "Venusberg / Ippendorf",
+        "areas": [
+          {
+            "area": "151",
+            "result": 1.4234875444839856,
+            "name": "Klinikum-Venusberg"
+          },
+          {
+            "area": "152",
+            "result": 1.1412268188302426,
+            "name": "Haager Weg"
+          },
+          {
+            "area": "153",
+            "result": 2.385008517887564,
+            "name": "Ippendorf-Nord"
+          },
+          {
+            "area": "154",
+            "result": 2.3404255319148937,
+            "name": "Ippendorf-Südwest"
+          },
+          {
+            "area": "150 A",
+            "result": 2.6119402985074625,
+            "name": "150 A (Venusberg / Ippendorf)"
+          },
+          {
+            "area": "150 B",
+            "result": 1.2138188608776845,
+            "name": "150 B (Venusberg / Ippendorf)"
+          }
+        ]
+      },
+      {
+        "area": "16",
+        "result": 1.3658755038065382,
+        "name": "Röttgen / Ückesdorf",
+        "areas": [
+          {
+            "area": "161",
+            "result": 2.3504273504273505,
+            "name": " Ückesdorf -Ost"
+          },
+          {
+            "area": "162",
+            "result": 1.2853470437017995,
+            "name": "Röttgen-West"
+          },
+          {
+            "area": "163",
+            "result": 1.7964071856287425,
+            "name": " Röttgen-Nord"
+          },
+          {
+            "area": "164",
+            "result": 1.5414258188824663,
+            "name": "Röttgen-Süd"
+          },
+          {
+            "area": "165",
+            "result": 0.9779951100244498,
+            "name": " Ückesdorf-West"
+          },
+          {
+            "area": "160 A",
+            "result": 1.267962806424345,
+            "name": "160 A (Röttgen / Ückesdorf)"
+          },
+          {
+            "area": "160 B",
+            "result": 0.9027081243731194,
+            "name": "160 B (Röttgen / Ückesdorf)"
+          }
+        ]
+      },
+      {
+        "area": "21",
+        "result": 2.771645818003434,
+        "name": "Friesdorf",
+        "areas": [
+          {
+            "area": "211",
+            "result": 3.1380753138075312,
+            "name": "Turmhaus"
+          },
+          {
+            "area": "212",
+            "result": 3.898635477582846,
+            "name": "Klufterplatz"
+          },
+          {
+            "area": "213",
+            "result": 2.0253164556962027,
+            "name": "Dreizehnmorgenweg"
+          },
+          {
+            "area": "214",
+            "result": 2.3965141612200433,
+            "name": "In der Kumme"
+          },
+          {
+            "area": "215",
+            "result": 3.32409972299169,
+            "name": "Südstraße"
+          },
+          {
+            "area": "210 A",
+            "result": 2.467811158798283,
+            "name": "210 A (Friesdorf)"
+          },
+          {
+            "area": "210 B",
+            "result": 2.5559105431309903,
+            "name": "210 B (Friesdorf)"
+          }
+        ]
+      },
+      {
+        "area": "22",
+        "result": 1.4578335486252076,
+        "name": "Villenviertel / Rüngsdorf",
+        "areas": [
+          {
+            "area": "221",
+            "result": 1.2797074954296161,
+            "name": "Otto-Kühne-Platz"
+          },
+          {
+            "area": "222",
+            "result": 1.618705035971223,
+            "name": "Plittersdorfer Str."
+          },
+          {
+            "area": "223",
+            "result": 0.975609756097561,
+            "name": "Rüngsdorf"
+          },
+          {
+            "area": "224",
+            "result": 1.8867924528301887,
+            "name": "Rüngsdorfer Straße"
+          },
+          {
+            "area": "225",
+            "result": 2.1621621621621623,
+            "name": "Mendelsohnstraße"
+          },
+          {
+            "area": "226",
+            "result": 2,
+            "name": "Königsplatz"
+          },
+          {
+            "area": "220 A",
+            "result": 1.4728682170542635,
+            "name": "220 A (Villenviertel / Rüngsdorf)"
+          },
+          {
+            "area": "220 B",
+            "result": 1.059001512859304,
+            "name": "220 B (Villenviertel / Rüngsdorf)"
+          }
+        ]
+      },
+      {
+        "area": "23",
+        "result": 2.069112627986348,
+        "name": "Plittersdorf / Hochkreuz",
+        "areas": [
+          {
+            "area": "231",
+            "result": 2.0689655172413794,
+            "name": "Hochkreuz"
+          },
+          {
+            "area": "232",
+            "result": 4.054054054054054,
+            "name": "Hindenburgallee"
+          },
+          {
+            "area": "233",
+            "result": 1.9662921348314606,
+            "name": "Neckarstraße"
+          },
+          {
+            "area": "234",
+            "result": 2.536997885835095,
+            "name": "Donatusstraße"
+          },
+          {
+            "area": "235",
+            "result": 2.3952095808383236,
+            "name": " Steinstraße"
+          },
+          {
+            "area": "236",
+            "result": 3.0456852791878175,
+            "name": "Plittersdorf-Mitte"
+          },
+          {
+            "area": "230 A",
+            "result": 1.4058106841611997,
+            "name": "230 A (Plittersdorf / Hochkreuz)"
+          },
+          {
+            "area": "230 B",
+            "result": 1.3736263736263736,
+            "name": "230 B (Plittersdorf / Hochkreuz)"
+          }
+        ]
+      },
+      {
+        "area": "24",
+        "result": 2.4836244541484715,
+        "name": "Bad Godesberg-Mitte",
+        "areas": [
+          {
+            "area": "241",
+            "result": 0.21551724137931033,
+            "name": "Schweinheim"
+          },
+          {
+            "area": "242",
+            "result": 2.5,
+            "name": "Godesberger Burg"
+          },
+          {
+            "area": "243",
+            "result": 5,
+            "name": "Bendelviertel"
+          },
+          {
+            "area": "244",
+            "result": 2.4456521739130435,
+            "name": "Rigalsche Wiese"
+          },
+          {
+            "area": "245",
+            "result": 2.727272727272727,
+            "name": "Feuerwache GO"
+          },
+          {
+            "area": "246",
+            "result": 5.042016806722689,
+            "name": "Michaelschule"
+          },
+          {
+            "area": "240 A",
+            "result": 2.6460859977949283,
+            "name": "240 A (Bad Godesberg-Mitte)"
+          },
+          {
+            "area": "240 B",
+            "result": 2.2050716648291067,
+            "name": "240 B (Bad Godesberg-Mitte)"
+          }
+        ]
+      },
+      {
+        "area": "25",
+        "result": 2.232935803095661,
+        "name": "Heiderhof / Muffendorf",
+        "areas": [
+          {
+            "area": "251",
+            "result": 1.3856812933025404,
+            "name": " Marienforster Straße"
+          },
+          {
+            "area": "252",
+            "result": 2.5787965616045847,
+            "name": "Heiderhof-Süd"
+          },
+          {
+            "area": "253",
+            "result": 3.2989690721649487,
+            "name": "Muffendorf"
+          },
+          {
+            "area": "254",
+            "result": 2.2573363431151243,
+            "name": "Lyngsberg"
+          },
+          {
+            "area": "255",
+            "result": 2.689486552567237,
+            "name": "Heiderhof-Nord"
+          },
+          {
+            "area": "250 A",
+            "result": 2.0856201975850714,
+            "name": "250 A (Heiderhof / Muffendorf)"
+          },
+          {
+            "area": "250 B",
+            "result": 1.8660812294182216,
+            "name": "250 B (Heiderhof / Muffendorf)"
+          }
+        ]
+      },
+      {
+        "area": "26",
+        "result": 2.2100760456273765,
+        "name": "Pennenfeld / Lannesdorf",
+        "areas": [
+          {
+            "area": "261",
+            "result": 1.5625,
+            "name": "Behringstraße"
+          },
+          {
+            "area": "262",
+            "result": 2.9484029484029484,
+            "name": "Lannesdorf-West"
+          },
+          {
+            "area": "263",
+            "result": 2.93040293040293,
+            "name": " Pennenfeld-Mitte"
+          },
+          {
+            "area": "264",
+            "result": 2.5380710659898478,
+            "name": "Pennenfeld-Süd"
+          },
+          {
+            "area": "265",
+            "result": 2.320675105485232,
+            "name": "Meisengarten"
+          },
+          {
+            "area": "266",
+            "result": 1.3123359580052494,
+            "name": "Lannesdorf-Ost"
+          },
+          {
+            "area": "260 A",
+            "result": 2.0902090209020905,
+            "name": "260 A (Pennenfeld / Lannesdorf)"
+          },
+          {
+            "area": "260 B",
+            "result": 2.27765726681128,
+            "name": "260 B (Pennenfeld / Lannesdorf)"
+          }
+        ]
+      },
+      {
+        "area": "27",
+        "result": 2.327346319251202,
+        "name": "Mehlem",
+        "areas": [
+          {
+            "area": "271",
+            "result": 3.0985915492957745,
+            "name": "Utestraße"
+          },
+          {
+            "area": "272",
+            "result": 5.288461538461538,
+            "name": " Antoniterstraße"
+          },
+          {
+            "area": "273",
+            "result": 2.710027100271003,
+            "name": " Domhofstraße"
+          },
+          {
+            "area": "274",
+            "result": 1.4749262536873156,
+            "name": "Mehlem-Mitte"
+          },
+          {
+            "area": "275",
+            "result": 1.9148936170212765,
+            "name": "Obermehlem"
+          },
+          {
+            "area": "276",
+            "result": 2.2004889975550124,
+            "name": "Mehlem-Rheinaue"
+          },
+          {
+            "area": "270 A",
+            "result": 2.6402640264026402,
+            "name": "270 A (Mehlem)"
+          },
+          {
+            "area": "270 B",
+            "result": 1.45413870246085,
+            "name": "270 B (Mehlem)"
+          }
+        ]
+      },
+      {
+        "area": "31",
+        "result": 3.6300578034682083,
+        "name": "Beuel-Zentrum",
+        "areas": [
+          {
+            "area": "311",
+            "result": 4.867256637168142,
+            "name": "Beuel-Ost"
+          },
+          {
+            "area": "312",
+            "result": 3.47985347985348,
+            "name": "Agnesstraße"
+          },
+          {
+            "area": "313",
+            "result": 5.708661417322835,
+            "name": "St. Augustiner Straße"
+          },
+          {
+            "area": "314",
+            "result": 4.166666666666666,
+            "name": "Bahnhof Beuel"
+          },
+          {
+            "area": "310 A",
+            "result": 2.146690518783542,
+            "name": "310 A (Beuel-Zentrum)"
+          },
+          {
+            "area": "310 B",
+            "result": 3.4666666666666663,
+            "name": "310 B (Beuel-Zentrum)"
+          }
+        ]
+      },
+      {
+        "area": "32",
+        "result": 2.5677896466721446,
+        "name": "Schwarzrheindorf/Vilich-Rheindorf/Combahnviertel",
+        "areas": [
+          {
+            "area": "321",
+            "result": 0.79155672823219,
+            "name": "Vilich-Rheindorf-West"
+          },
+          {
+            "area": "322",
+            "result": 2.3255813953488373,
+            "name": "Schwarzrheindorf-Süd"
+          },
+          {
+            "area": "323",
+            "result": 2.644230769230769,
+            "name": "Schwarzrheindorf-Nord"
+          },
+          {
+            "area": "324",
+            "result": 3.3457249070631967,
+            "name": "Combahn"
+          },
+          {
+            "area": "325",
+            "result": 4.051172707889126,
+            "name": "Vilich-Rheindorf-Ost"
+          },
+          {
+            "area": "320 A",
+            "result": 2.2660818713450293,
+            "name": "320 A (Schwarzrheindorf/Vilich-Rheindorf/Combahnviertel)"
+          },
+          {
+            "area": "320 B",
+            "result": 2.576950608446672,
+            "name": "320 B (Schwarzrheindorf/Vilich-Rheindorf/Combahnviertel)"
+          }
+        ]
+      },
+      {
+        "area": "33",
+        "result": 2.0037909558624425,
+        "name": "Pützchen / Bechlinghoven / Holtorf / Ungarten",
+        "areas": [
+          {
+            "area": "331",
+            "result": 0.7407407407407408,
+            "name": "Holtorf"
+          },
+          {
+            "area": "332",
+            "result": 2.0618556701030926,
+            "name": "Bechlinghoven"
+          },
+          {
+            "area": "333",
+            "result": 2.3255813953488373,
+            "name": "Pützchen-Ost"
+          },
+          {
+            "area": "334",
+            "result": 5.864197530864197,
+            "name": "Pützchen-West"
+          },
+          {
+            "area": "330 A",
+            "result": 1.7582417582417582,
+            "name": "330 A (Pützchen / Bechlinghoven / Holtorf / Ungarten)"
+          },
+          {
+            "area": "330 B",
+            "result": 1.3888888888888888,
+            "name": "330 B (Pützchen / Bechlinghoven / Holtorf / Ungarten)"
+          }
+        ]
+      },
+      {
+        "area": "34",
+        "result": 2.039529015979815,
+        "name": "Beuel-Süd / Limperich",
+        "areas": [
+          {
+            "area": "341",
+            "result": 2.9082774049217,
+            "name": "Ringstr."
+          },
+          {
+            "area": "342",
+            "result": 2.631578947368421,
+            "name": "Beueler Stadion"
+          },
+          {
+            "area": "343",
+            "result": 2.608695652173913,
+            "name": "Heinrich-Heine-Straße"
+          },
+          {
+            "area": "344",
+            "result": 3.16622691292876,
+            "name": "Küdinghoven-Nord"
+          },
+          {
+            "area": "345",
+            "result": 2.5380710659898478,
+            "name": "Beuel-Rheinaue"
+          },
+          {
+            "area": "346",
+            "result": 2.0114942528735633,
+            "name": "Derr-Projekt"
+          },
+          {
+            "area": "340 A",
+            "result": 1.380500431406385,
+            "name": "340 A (Beuel-Süd / Limperich)"
+          },
+          {
+            "area": "340 B",
+            "result": 1.4297729184188395,
+            "name": "340 B (Beuel-Süd / Limperich)"
+          }
+        ]
+      },
+      {
+        "area": "35",
+        "result": 1.9490586932447398,
+        "name": "Holzlar / Hoholz",
+        "areas": [
+          {
+            "area": "351",
+            "result": 2.8301886792452833,
+            "name": "Holzlar-Süd"
+          },
+          {
+            "area": "352",
+            "result": 2.0325203252032518,
+            "name": "Kohlkaul Ost"
+          },
+          {
+            "area": "353",
+            "result": 3.45821325648415,
+            "name": "Kohlkaul West"
+          },
+          {
+            "area": "354",
+            "result": 1.676829268292683,
+            "name": "Heidebergen"
+          },
+          {
+            "area": "355",
+            "result": 1.6483516483516485,
+            "name": "Holzlar-Mitte"
+          },
+          {
+            "area": "356",
+            "result": 1.3084112149532712,
+            "name": "Hoholz/Gielgen"
+          },
+          {
+            "area": "350 A",
+            "result": 1.8311291963377416,
+            "name": "350 A (Holzlar / Hoholz)"
+          },
+          {
+            "area": "350 B",
+            "result": 1.7708333333333333,
+            "name": "350 B (Holzlar / Hoholz)"
+          }
+        ]
+      },
+      {
+        "area": "36",
+        "result": 2.2204279370205895,
+        "name": "Küdinghoven / Ramersdorf / Oberkassel",
+        "areas": [
+          {
+            "area": "361",
+            "result": 2.570694087403599,
+            "name": "Oberkassel-Nord"
+          },
+          {
+            "area": "362",
+            "result": 1.9801980198019802,
+            "name": "Oberkassel-Mitte"
+          },
+          {
+            "area": "363",
+            "result": 2.729528535980149,
+            "name": "Oberkassel-Süd I"
+          },
+          {
+            "area": "364",
+            "result": 3.592814371257485,
+            "name": "Oberkassel-Süd II"
+          },
+          {
+            "area": "365",
+            "result": 1.8567639257294428,
+            "name": "Oberkassel-Nord"
+          },
+          {
+            "area": "366",
+            "result": 2.903225806451613,
+            "name": "Ramersdorf"
+          },
+          {
+            "area": "367",
+            "result": 2.4128686327077746,
+            "name": "Küdinghoven-Süd"
+          },
+          {
+            "area": "360 A",
+            "result": 1.8425460636515913,
+            "name": "360 A (Küdinghoven / Ramersdorf / Oberkassel)"
+          },
+          {
+            "area": "360 B",
+            "result": 1.8803418803418803,
+            "name": "360 B (Küdinghoven / Ramersdorf / Oberkassel)"
+          }
+        ]
+      },
+      {
+        "area": "37",
+        "result": 2.383419689119171,
+        "name": "Vilich / Geislar / Vilich-Müldorf",
+        "areas": [
+          {
+            "area": "371",
+            "result": 2.3952095808383236,
+            "name": "Geislar-West"
+          },
+          {
+            "area": "372",
+            "result": 2.5925925925925926,
+            "name": "Vilich-Müldorf-Nord"
+          },
+          {
+            "area": "373",
+            "result": 3.180914512922465,
+            "name": "Vilich-Müldorf-Süd"
+          },
+          {
+            "area": "374",
+            "result": 3.0864197530864197,
+            "name": "Vilich"
+          },
+          {
+            "area": "375",
+            "result": 2.570093457943925,
+            "name": "Neu-Vilich West"
+          },
+          {
+            "area": "376",
+            "result": 2.8077753779697625,
+            "name": "Neu-Vilich Ost"
+          },
+          {
+            "area": "377",
+            "result": 2.623906705539359,
+            "name": "Geislar-Ost"
+          },
+          {
+            "area": "370 A",
+            "result": 2.0876826722338206,
+            "name": "370 A (Vilich / Geislar / Vilich-Müldorf)"
+          },
+          {
+            "area": "370 B",
+            "result": 1.502145922746781,
+            "name": "370 B (Vilich / Geislar / Vilich-Müldorf)"
+          }
+        ]
+      },
+      {
+        "area": "41",
+        "result": 1.8855796014570387,
+        "name": "Lengsdorf / Brüser Berg",
+        "areas": [
+          {
+            "area": "411",
+            "result": 3.6175710594315245,
+            "name": "Erfurtstraße"
+          },
+          {
+            "area": "412",
+            "result": 1.201923076923077,
+            "name": " Fliegerviertel"
+          },
+          {
+            "area": "413",
+            "result": 3.296703296703297,
+            "name": "Lengsdorf-Mitte"
+          },
+          {
+            "area": "414",
+            "result": 1.2371134020618557,
+            "name": "Lengsdorf-Ost"
+          },
+          {
+            "area": "415",
+            "result": 1.183431952662722,
+            "name": "Hardthöhe"
+          },
+          {
+            "area": "416",
+            "result": 4.104477611940299,
+            "name": "Celsiusstr."
+          },
+          {
+            "area": "410 A",
+            "result": 1.8298261665141813,
+            "name": "410 A (Lengsdorf / Brüser Berg)"
+          },
+          {
+            "area": "410 B",
+            "result": 1.0416666666666665,
+            "name": "410 B (Lengsdorf / Brüser Berg)"
+          }
+        ]
+      },
+      {
+        "area": "42",
+        "result": 2.7790128946198314,
+        "name": "Duisdorf / Finkenhof / Lengsdorf",
+        "areas": [
+          {
+            "area": "421",
+            "result": 4.482758620689655,
+            "name": "St. Augustinus-Kirche"
+          },
+          {
+            "area": "422",
+            "result": 2.1212121212121215,
+            "name": "Köslinstraße"
+          },
+          {
+            "area": "423",
+            "result": 1.9607843137254901,
+            "name": "Duisdorf-Mitte"
+          },
+          {
+            "area": "424",
+            "result": 5.714285714285714,
+            "name": "Lengsdorf-West"
+          },
+          {
+            "area": "425",
+            "result": 1.8134715025906734,
+            "name": "Finkenhof"
+          },
+          {
+            "area": "426",
+            "result": 4.984423676012461,
+            "name": "Augustinusstraße"
+          },
+          {
+            "area": "427",
+            "result": 2.20125786163522,
+            "name": "Ringelsacker"
+          },
+          {
+            "area": "420 A",
+            "result": 1.6710642040457344,
+            "name": "420 A (Duisdorf / Finkenhof / Lengsdorf)"
+          },
+          {
+            "area": "420 B",
+            "result": 3.0088495575221237,
+            "name": "420 B (Duisdorf / Finkenhof / Lengsdorf)"
+          }
+        ]
+      },
+      {
+        "area": "43",
+        "result": 2.5848960973137354,
+        "name": "Duisdorf / Medinghoven",
+        "areas": [
+          {
+            "area": "431",
+            "result": 5.853658536585367,
+            "name": "Helmholtzstraße"
+          },
+          {
+            "area": "432",
+            "result": 2.0202020202020203,
+            "name": "Duisdorf-Nord"
+          },
+          {
+            "area": "433",
+            "result": 2.17983651226158,
+            "name": "Duisdorf-Ost"
+          },
+          {
+            "area": "434",
+            "result": 3.91566265060241,
+            "name": "Medinghoven-Nord"
+          },
+          {
+            "area": "435",
+            "result": 2.684563758389262,
+            "name": "Malteser Krankenhaus"
+          },
+          {
+            "area": "436",
+            "result": 2.9850746268656714,
+            "name": "Medinghoven-Süd"
+          },
+          {
+            "area": "430 A",
+            "result": 1.5321756894790604,
+            "name": "430 A (Duisdorf / Medinghoven )"
+          },
+          {
+            "area": "430 B",
+            "result": 2.0768431983385254,
+            "name": "430 B (Duisdorf / Medinghoven)"
+          }
+        ]
+      }
+    ],
+    "result": "2.91"
+  },
+  {
+    "poll": "europawahl-2024",
+    "results": [
+      {
+        "area": "01",
+        "result": 4.810932235117933,
+        "name": "Bonn-Zentrum",
+        "areas": [
+          {
+            "area": "011",
+            "result": 6.560636182902585,
+            "name": "City Bonn"
+          },
+          {
+            "area": "012",
+            "result": 4.801097393689986,
+            "name": "Hofgarten"
+          },
+          {
+            "area": "013",
+            "result": 4.712041884816754,
+            "name": "Bundesrechungshof"
+          },
+          {
+            "area": "014",
+            "result": 7.251908396946565,
+            "name": "Sandkaule"
+          },
+          {
+            "area": "015",
+            "result": 4.866180048661801,
+            "name": "Beethovenhalle"
+          },
+          {
+            "area": "010 A",
+            "result": 3.7700282752120637,
+            "name": "010 A (Bonn Zentrum)"
+          },
+          {
+            "area": "010 B",
+            "result": 4.074074074074074,
+            "name": "010 B (Bonn Zentrum)"
+          }
+        ]
+      },
+      {
+        "area": "02",
+        "result": 4.2042755344418055,
+        "name": "Bonn-Castell / Rheindorf-Süd",
+        "areas": [
+          {
+            "area": "021",
+            "result": 3.7102473498233217,
+            "name": "Wichelshof-Ost"
+          },
+          {
+            "area": "022",
+            "result": 4.9281314168377826,
+            "name": "Wichelshof-West"
+          },
+          {
+            "area": "023",
+            "result": 2.5525525525525525,
+            "name": "Am Römerlager"
+          },
+          {
+            "area": "024",
+            "result": 5.769230769230769,
+            "name": "Römerbad"
+          },
+          {
+            "area": "025",
+            "result": 7.816091954022989,
+            "name": "Hafen"
+          },
+          {
+            "area": "020 A",
+            "result": 3.935185185185185,
+            "name": "020 A (Bonn-Castell / Rheindorf-Süd)"
+          },
+          {
+            "area": "020 B",
+            "result": 2.7624309392265194,
+            "name": "020 B (Bonn-Castell / Rheindorf-Süd)"
+          }
+        ]
+      },
+      {
+        "area": "03",
+        "result": 7.185854025583145,
+        "name": "Innere Nordstadt",
+        "areas": [
+          {
+            "area": "031",
+            "result": 7.2727272727272725,
+            "name": "Wolfstr."
+          },
+          {
+            "area": "032",
+            "result": 6.25,
+            "name": "Ellerviertel"
+          },
+          {
+            "area": "033",
+            "result": 6.70611439842209,
+            "name": "Sternstraße"
+          },
+          {
+            "area": "034",
+            "result": 9.036144578313253,
+            "name": " Heerstraße"
+          },
+          {
+            "area": "035",
+            "result": 9.266409266409266,
+            "name": "Alter Friedhof"
+          },
+          {
+            "area": "030 A",
+            "result": 6.129032258064516,
+            "name": "030 A (Innere Nordstadt)"
+          },
+          {
+            "area": "030 B",
+            "result": 6.976744186046512,
+            "name": "030 B (Innere Nordstadt)"
+          }
+        ]
+      },
+      {
+        "area": "04",
+        "result": 3.5226077812828605,
+        "name": "Baumschulviertel / Südstadt",
+        "areas": [
+          {
+            "area": "041",
+            "result": 2.619047619047619,
+            "name": "Landesmuseum"
+          },
+          {
+            "area": "042",
+            "result": 3.99002493765586,
+            "name": "Elisabethkirche"
+          },
+          {
+            "area": "043",
+            "result": 3.206997084548105,
+            "name": "Baumschulallee"
+          },
+          {
+            "area": "044",
+            "result": 5.206738131699847,
+            "name": "Bonner Talweg"
+          },
+          {
+            "area": "045",
+            "result": 4.964539007092199,
+            "name": "Weberstraße"
+          },
+          {
+            "area": "040 A",
+            "result": 2.6335590669676447,
+            "name": "040 A (Baumschulviertel / Südstadt)"
+          },
+          {
+            "area": "040 B",
+            "result": 2.8802880288028803,
+            "name": "040 B (Baumschulviertel / Südstadt)"
+          }
+        ]
+      },
+      {
+        "area": "05",
+        "result": 3.4784917684545937,
+        "name": "Neu-Tannenbusch / Buschdorf",
+        "areas": [
+          {
+            "area": "051",
+            "result": 1.6051364365971106,
+            "name": "Buschdorf-Süd"
+          },
+          {
+            "area": "052",
+            "result": 3.2679738562091507,
+            "name": "Buschdorf-Nord"
+          },
+          {
+            "area": "053",
+            "result": 3.1645569620253164,
+            "name": "Neu-Tannenbusch-Mitte"
+          },
+          {
+            "area": "054",
+            "result": 8.896797153024911,
+            "name": "Waldenburger Ring"
+          },
+          {
+            "area": "055",
+            "result": 5.423728813559322,
+            "name": "Neu-Tannenbusch EKZ"
+          },
+          {
+            "area": "056",
+            "result": 3.6312849162011176,
+            "name": "Friedlandstraße"
+          },
+          {
+            "area": "050",
+            "result": 2.3901310717039324,
+            "name": "050 (Neu-Tannenbusch / Buschdorf)"
+          }
+        ]
+      },
+      {
+        "area": "06",
+        "result": 3.862753560638757,
+        "name": "Auerberg / Graurheindorf",
+        "areas": [
+          {
+            "area": "061",
+            "result": 6.967213114754098,
+            "name": "Josefshöhe"
+          },
+          {
+            "area": "062",
+            "result": 3.6585365853658534,
+            "name": "VAW-Werk"
+          },
+          {
+            "area": "063",
+            "result": 4.5,
+            "name": "Auerberg-Mitte"
+          },
+          {
+            "area": "064",
+            "result": 2.857142857142857,
+            "name": "Auerberg-Nord"
+          },
+          {
+            "area": "065",
+            "result": 4.465493910690121,
+            "name": "Grau-Rheindorf"
+          },
+          {
+            "area": "060",
+            "result": 2.8701891715590344,
+            "name": "060 (Auerberg / Graurheindorf)"
+          }
+        ]
+      },
+      {
+        "area": "07",
+        "result": 4.940119760479042,
+        "name": "Tannenbusch",
+        "areas": [
+          {
+            "area": "071",
+            "result": 10.802469135802468,
+            "name": "Posener Weg"
+          },
+          {
+            "area": "072",
+            "result": 4.518072289156627,
+            "name": "Paulusplatz"
+          },
+          {
+            "area": "073",
+            "result": 2.888086642599278,
+            "name": "Landsberger Straße"
+          },
+          {
+            "area": "074",
+            "result": 5.399568034557236,
+            "name": "Swinemünder Straße"
+          },
+          {
+            "area": "075",
+            "result": 3.512396694214876,
+            "name": "Düne Tannenbusch"
+          },
+          {
+            "area": "070",
+            "result": 4.040404040404041,
+            "name": "070 (Tannenbusch)"
+          }
+        ]
+      },
+      {
+        "area": "08",
+        "result": 2.916224814422057,
+        "name": "Dransdorf / Lessenich / Meßdorf",
+        "areas": [
+          {
+            "area": "081",
+            "result": 4.178272980501393,
+            "name": "Dransdorf-Nord"
+          },
+          {
+            "area": "082",
+            "result": 3.9473684210526314,
+            "name": "Hölderlinstraße"
+          },
+          {
+            "area": "083",
+            "result": 4.772727272727273,
+            "name": "Dransdorf-Süd"
+          },
+          {
+            "area": "084",
+            "result": 2.006172839506173,
+            "name": "Meßdorf"
+          },
+          {
+            "area": "085",
+            "result": 1.8335684062059237,
+            "name": "Lessenich-Süd"
+          },
+          {
+            "area": "080",
+            "result": 2.7439024390243905,
+            "name": "080 (Dransdorf / Lessenich / Meßdorf)"
+          }
+        ]
+      },
+      {
+        "area": "09",
+        "result": 4.56903431763767,
+        "name": "Endenich I",
+        "areas": [
+          {
+            "area": "091",
+            "result": 4.149933065595716,
+            "name": "Alt-Endenich"
+          },
+          {
+            "area": "092",
+            "result": 4.831625183016105,
+            "name": "Endenich-West"
+          },
+          {
+            "area": "093",
+            "result": 6.10079575596817,
+            "name": "Endenich-Ost"
+          },
+          {
+            "area": "094",
+            "result": 4.884667571234735,
+            "name": "Endenich-Süd"
+          },
+          {
+            "area": "090 A",
+            "result": 4.036697247706423,
+            "name": "090 A (Endenich I)"
+          },
+          {
+            "area": "090 B",
+            "result": 3.896103896103896,
+            "name": "090 B (Endenich I)"
+          }
+        ]
+      },
+      {
+        "area": "10",
+        "result": 3.6871053167651255,
+        "name": "Poppelsdorf",
+        "areas": [
+          {
+            "area": "101",
+            "result": 4.464285714285714,
+            "name": "Nußallee"
+          },
+          {
+            "area": "102",
+            "result": 3.3285094066570187,
+            "name": " Argelanderstraße"
+          },
+          {
+            "area": "103",
+            "result": 4.485981308411215,
+            "name": "Poppelsdorf-West"
+          },
+          {
+            "area": "104",
+            "result": 5.805243445692884,
+            "name": "Poppelsdorf-Ost"
+          },
+          {
+            "area": "105",
+            "result": 1.6736401673640167,
+            "name": "Nachtigallenweg"
+          },
+          {
+            "area": "100 A",
+            "result": 4.085422469823584,
+            "name": "100 A (Poppelsdorf)"
+          },
+          {
+            "area": "100 B",
+            "result": 2.5145067698259185,
+            "name": "100 B (Poppelsdorf)"
+          }
+        ]
+      },
+      {
+        "area": "11",
+        "result": 3.594118714830278,
+        "name": "Kessenich",
+        "areas": [
+          {
+            "area": "111",
+            "result": 5.698778833107191,
+            "name": "Kessenich-Mitte"
+          },
+          {
+            "area": "112",
+            "result": 3.4246575342465753,
+            "name": "Kessenich-Nord"
+          },
+          {
+            "area": "113",
+            "result": 6.0109289617486334,
+            "name": "Reutersiedlung"
+          },
+          {
+            "area": "114",
+            "result": 3.984819734345351,
+            "name": "Lotharstraße"
+          },
+          {
+            "area": "115",
+            "result": 3.050847457627119,
+            "name": "Kessenich-Ost"
+          },
+          {
+            "area": "110 A",
+            "result": 2.454991816693944,
+            "name": "110 A (Kessenich)"
+          },
+          {
+            "area": "110 B",
+            "result": 2.512998266897747,
+            "name": "110 B (Kessenich)"
+          }
+        ]
+      },
+      {
+        "area": "12",
+        "result": 3.518807418963425,
+        "name": "Dottendorf / Gronau",
+        "areas": [
+          {
+            "area": "121",
+            "result": 3.5036496350364965,
+            "name": "Dottendorf-Süd"
+          },
+          {
+            "area": "122",
+            "result": 5.543237250554324,
+            "name": "Dottendorf-Südwest"
+          },
+          {
+            "area": "123",
+            "result": 3.5897435897435894,
+            "name": "Dottendorf-Ost"
+          },
+          {
+            "area": "124",
+            "result": 3.5906642728904847,
+            "name": "Dottendorf-Mitte"
+          },
+          {
+            "area": "125",
+            "result": 2.564102564102564,
+            "name": "Gronau"
+          },
+          {
+            "area": "126",
+            "result": 4.444444444444445,
+            "name": "Bergstraße"
+          },
+          {
+            "area": "120 A",
+            "result": 2.73972602739726,
+            "name": "120 A (Dottendorf / Gronau)"
+          },
+          {
+            "area": "120 B",
+            "result": 3.3304119193689745,
+            "name": "120 B (Dottendorf / Gronau)"
+          }
+        ]
+      },
+      {
+        "area": "13",
+        "result": 6.493506493506493,
+        "name": "Äußere Nordstadt",
+        "areas": [
+          {
+            "area": "131",
+            "result": 6.135629709364909,
+            "name": "Nordstraße"
+          },
+          {
+            "area": "132",
+            "result": 8.129032258064516,
+            "name": "Adolfstraße"
+          },
+          {
+            "area": "133",
+            "result": 6.786427145708583,
+            "name": "Sportpark Nord"
+          },
+          {
+            "area": "134",
+            "result": 9.25925925925926,
+            "name": "Chlodwig-Platz"
+          },
+          {
+            "area": "130",
+            "result": 4.996915484268969,
+            "name": "130 (Äußere Nordstadt("
+          }
+        ]
+      },
+      {
+        "area": "14",
+        "result": 4.796397807361003,
+        "name": "Endenich II",
+        "areas": [
+          {
+            "area": "141",
+            "result": 5.809859154929577,
+            "name": "Immenburgstraße"
+          },
+          {
+            "area": "142",
+            "result": 3.215926493108729,
+            "name": "Musikerviertel-Mitte"
+          },
+          {
+            "area": "143",
+            "result": 4.401408450704225,
+            "name": "Musikerviertel-West"
+          },
+          {
+            "area": "144",
+            "result": 3.982930298719772,
+            "name": "Auf dem Hügel Nord"
+          },
+          {
+            "area": "145",
+            "result": 8.605851979345955,
+            "name": "Auf dem Hügel Süd"
+          },
+          {
+            "area": "140 A",
+            "result": 3.9145907473309607,
+            "name": "140 A (Endenich II)"
+          },
+          {
+            "area": "140 B",
+            "result": 4.829857299670691,
+            "name": "140 B (Endenich II)"
+          }
+        ]
+      },
+      {
+        "area": "15",
+        "result": 1.6852791878172588,
+        "name": "Venusberg / Ippendorf",
+        "areas": [
+          {
+            "area": "151",
+            "result": 2.2658610271903323,
+            "name": "Klinikum-Venusberg"
+          },
+          {
+            "area": "152",
+            "result": 1.1820330969267139,
+            "name": "Haager Weg"
+          },
+          {
+            "area": "153",
+            "result": 2.064516129032258,
+            "name": "Ippendorf-Nord"
+          },
+          {
+            "area": "154",
+            "result": 1.8425460636515913,
+            "name": "Ippendorf-Südwest"
+          },
+          {
+            "area": "150 A",
+            "result": 1.593625498007968,
+            "name": "150 A (Venusberg / Ippendorf)"
+          },
+          {
+            "area": "150 B",
+            "result": 1.440922190201729,
+            "name": "150 B (Venusberg / Ippendorf)"
+          }
+        ]
+      },
+      {
+        "area": "16",
+        "result": 1.2062726176115801,
+        "name": "Röttgen / Ückesdorf",
+        "areas": [
+          {
+            "area": "161",
+            "result": 1.6420361247947455,
+            "name": " Ückesdorf -Ost"
+          },
+          {
+            "area": "162",
+            "result": 1.2987012987012987,
+            "name": "Röttgen-West"
+          },
+          {
+            "area": "163",
+            "result": 2.204724409448819,
+            "name": " Röttgen-Nord"
+          },
+          {
+            "area": "164",
+            "result": 1.002865329512894,
+            "name": "Röttgen-Süd"
+          },
+          {
+            "area": "165",
+            "result": 0.5859375,
+            "name": " Ückesdorf-West"
+          },
+          {
+            "area": "160 A",
+            "result": 0.8695652173913043,
+            "name": "160 A (Röttgen / Ückesdorf)"
+          },
+          {
+            "area": "160 B",
+            "result": 1.0570824524312896,
+            "name": "160 B (Röttgen / Ückesdorf)"
+          }
+        ]
+      },
+      {
+        "area": "21",
+        "result": 2.9469122426868903,
+        "name": "Friesdorf",
+        "areas": [
+          {
+            "area": "211",
+            "result": 3.146853146853147,
+            "name": "Turmhaus"
+          },
+          {
+            "area": "212",
+            "result": 2.682563338301043,
+            "name": "Klufterplatz"
+          },
+          {
+            "area": "213",
+            "result": 3.783783783783784,
+            "name": "Dreizehnmorgenweg"
+          },
+          {
+            "area": "214",
+            "result": 3.273322422258593,
+            "name": "In der Kumme"
+          },
+          {
+            "area": "215",
+            "result": 4.6255506607929515,
+            "name": "Südstraße"
+          },
+          {
+            "area": "210 A",
+            "result": 1.89520624303233,
+            "name": "210 A (Friesdorf)"
+          },
+          {
+            "area": "210 B",
+            "result": 2.456140350877193,
+            "name": "210 B (Friesdorf)"
+          }
+        ]
+      },
+      {
+        "area": "22",
+        "result": 1.806833114323259,
+        "name": "Villenviertel / Rüngsdorf",
+        "areas": [
+          {
+            "area": "221",
+            "result": 1.675977653631285,
+            "name": "Otto-Kühne-Platz"
+          },
+          {
+            "area": "222",
+            "result": 1.9830028328611897,
+            "name": "Plittersdorfer Str."
+          },
+          {
+            "area": "223",
+            "result": 0.8865248226950355,
+            "name": "Rüngsdorf"
+          },
+          {
+            "area": "224",
+            "result": 2.8368794326241136,
+            "name": "Rüngsdorfer Straße"
+          },
+          {
+            "area": "225",
+            "result": 1.996007984031936,
+            "name": "Mendelsohnstraße"
+          },
+          {
+            "area": "226",
+            "result": 2.195945945945946,
+            "name": "Königsplatz"
+          },
+          {
+            "area": "220 A",
+            "result": 1.4404852160727823,
+            "name": "220 A (Villenviertel / Rüngsdorf)"
+          },
+          {
+            "area": "220 B",
+            "result": 1.8650088809946712,
+            "name": "220 B (Villenviertel / Rüngsdorf)"
+          }
+        ]
+      },
+      {
+        "area": "23",
+        "result": 2.2701688555347093,
+        "name": "Plittersdorf / Hochkreuz",
+        "areas": [
+          {
+            "area": "231",
+            "result": 1.6722408026755853,
+            "name": "Hochkreuz"
+          },
+          {
+            "area": "232",
+            "result": 5.138339920948617,
+            "name": "Hindenburgallee"
+          },
+          {
+            "area": "233",
+            "result": 2.5316455696202533,
+            "name": "Neckarstraße"
+          },
+          {
+            "area": "234",
+            "result": 3.5653650254668934,
+            "name": "Donatusstraße"
+          },
+          {
+            "area": "235",
+            "result": 2.0634920634920633,
+            "name": " Steinstraße"
+          },
+          {
+            "area": "236",
+            "result": 1.3618677042801557,
+            "name": "Plittersdorf-Mitte"
+          },
+          {
+            "area": "230 A",
+            "result": 1.3605442176870748,
+            "name": "230 A (Plittersdorf / Hochkreuz)"
+          },
+          {
+            "area": "230 B",
+            "result": 1.8181818181818181,
+            "name": "230 B (Plittersdorf / Hochkreuz)"
+          }
+        ]
+      },
+      {
+        "area": "24",
+        "result": 2.8280018544274457,
+        "name": "Bad Godesberg-Mitte",
+        "areas": [
+          {
+            "area": "241",
+            "result": 1.1884550084889642,
+            "name": "Schweinheim"
+          },
+          {
+            "area": "242",
+            "result": 2.9585798816568047,
+            "name": "Godesberger Burg"
+          },
+          {
+            "area": "243",
+            "result": 4.281345565749235,
+            "name": "Bendelviertel"
+          },
+          {
+            "area": "244",
+            "result": 3.406813627254509,
+            "name": "Rigalsche Wiese"
+          },
+          {
+            "area": "245",
+            "result": 4.591836734693878,
+            "name": "Feuerwache GO"
+          },
+          {
+            "area": "246",
+            "result": 3.6619718309859155,
+            "name": "Michaelschule"
+          },
+          {
+            "area": "240 A",
+            "result": 2.4504084014002334,
+            "name": "240 A (Bad Godesberg-Mitte)"
+          },
+          {
+            "area": "240 B",
+            "result": 2.1573604060913705,
+            "name": "240 B (Bad Godesberg-Mitte)"
+          }
+        ]
+      },
+      {
+        "area": "25",
+        "result": 2.203043379513968,
+        "name": "Heiderhof / Muffendorf",
+        "areas": [
+          {
+            "area": "251",
+            "result": 1.3307984790874523,
+            "name": " Marienforster Straße"
+          },
+          {
+            "area": "252",
+            "result": 3.5940803382663846,
+            "name": "Heiderhof-Süd"
+          },
+          {
+            "area": "253",
+            "result": 2.1487603305785123,
+            "name": "Muffendorf"
+          },
+          {
+            "area": "254",
+            "result": 1.9891500904159132,
+            "name": "Lyngsberg"
+          },
+          {
+            "area": "255",
+            "result": 3.0357142857142856,
+            "name": "Heiderhof-Nord"
+          },
+          {
+            "area": "250 A",
+            "result": 1.7162471395881007,
+            "name": "250 A (Heiderhof / Muffendorf)"
+          },
+          {
+            "area": "250 B",
+            "result": 2.0935960591133003,
+            "name": "250 B (Heiderhof / Muffendorf)"
+          }
+        ]
+      },
+      {
+        "area": "26",
+        "result": 2.494887525562372,
+        "name": "Pennenfeld / Lannesdorf",
+        "areas": [
+          {
+            "area": "261",
+            "result": 2.185792349726776,
+            "name": "Behringstraße"
+          },
+          {
+            "area": "262",
+            "result": 1.890359168241966,
+            "name": "Lannesdorf-West"
+          },
+          {
+            "area": "263",
+            "result": 3.9911308203991127,
+            "name": " Pennenfeld-Mitte"
+          },
+          {
+            "area": "264",
+            "result": 4.41696113074205,
+            "name": "Pennenfeld-Süd"
+          },
+          {
+            "area": "265",
+            "result": 3.395585738539898,
+            "name": "Meisengarten"
+          },
+          {
+            "area": "266",
+            "result": 2.479338842975207,
+            "name": "Lannesdorf-Ost"
+          },
+          {
+            "area": "260 A",
+            "result": 1.662971175166297,
+            "name": "260 A (Pennenfeld / Lannesdorf)"
+          },
+          {
+            "area": "260 B",
+            "result": 1.2195121951219512,
+            "name": "260 B (Pennenfeld / Lannesdorf)"
+          }
+        ]
+      },
+      {
+        "area": "27",
+        "result": 2.617252931323283,
+        "name": "Mehlem",
+        "areas": [
+          {
+            "area": "271",
+            "result": 1.532567049808429,
+            "name": "Utestraße"
+          },
+          {
+            "area": "272",
+            "result": 4.694835680751173,
+            "name": " Antoniterstraße"
+          },
+          {
+            "area": "273",
+            "result": 4.672897196261682,
+            "name": " Domhofstraße"
+          },
+          {
+            "area": "274",
+            "result": 0.8298755186721992,
+            "name": "Mehlem-Mitte"
+          },
+          {
+            "area": "275",
+            "result": 2.823179791976226,
+            "name": "Obermehlem"
+          },
+          {
+            "area": "276",
+            "result": 4.511278195488721,
+            "name": "Mehlem-Rheinaue"
+          },
+          {
+            "area": "270 A",
+            "result": 1.5028901734104045,
+            "name": "270 A (Mehlem)"
+          },
+          {
+            "area": "270 B",
+            "result": 1.6194331983805668,
+            "name": "270 B (Mehlem)"
+          }
+        ]
+      },
+      {
+        "area": "31",
+        "result": 3.368973169255598,
+        "name": "Beuel-Zentrum",
+        "areas": [
+          {
+            "area": "311",
+            "result": 4.99219968798752,
+            "name": "Beuel-Ost"
+          },
+          {
+            "area": "312",
+            "result": 3.1039136302294197,
+            "name": "Agnesstraße"
+          },
+          {
+            "area": "313",
+            "result": 4.13589364844904,
+            "name": "St. Augustiner Straße"
+          },
+          {
+            "area": "314",
+            "result": 3.80818053596615,
+            "name": "Bahnhof Beuel"
+          },
+          {
+            "area": "310 A",
+            "result": 2.343017806935333,
+            "name": "310 A (Beuel-Zentrum)"
+          },
+          {
+            "area": "310 B",
+            "result": 2.8520499108734403,
+            "name": "310 B (Beuel-Zentrum)"
+          }
+        ]
+      },
+      {
+        "area": "32",
+        "result": 2.8228009470041884,
+        "name": "",
+        "areas": [
+          {
+            "area": "321",
+            "result": 1.7699115044247788,
+            "name": "Vilich-Rheindorf-West"
+          },
+          {
+            "area": "322",
+            "result": 4.25531914893617,
+            "name": "Schwarzrheindorf-Süd"
+          },
+          {
+            "area": "323",
+            "result": 2.664298401420959,
+            "name": "Schwarzrheindorf-Nord"
+          },
+          {
+            "area": "324",
+            "result": 5.150214592274678,
+            "name": "Combahn"
+          },
+          {
+            "area": "325",
+            "result": 3.763440860215054,
+            "name": "Vilich-Rheindorf-Ost"
+          },
+          {
+            "area": "320 A",
+            "result": 1.739850869925435,
+            "name": "320 A (Schwarzrheindorf/Vilich-Rheindorf/Combahnviertel)"
+          },
+          {
+            "area": "320 B",
+            "result": 1.9098548510313216,
+            "name": "320 B (Schwarzrheindorf/Vilich-Rheindorf/Combahnviertel)"
+          }
+        ]
+      },
+      {
+        "area": "33",
+        "result": 2.425812529439473,
+        "name": "Pützchen / Bechlinghoven / Holtorf / Ungarten",
+        "areas": [
+          {
+            "area": "331",
+            "result": 1.3975155279503106,
+            "name": "Holtorf"
+          },
+          {
+            "area": "332",
+            "result": 2.092050209205021,
+            "name": "Bechlinghoven"
+          },
+          {
+            "area": "333",
+            "result": 3.3381712626995643,
+            "name": "Pützchen-Ost"
+          },
+          {
+            "area": "334",
+            "result": 4.535637149028078,
+            "name": "Pützchen-West"
+          },
+          {
+            "area": "330 A",
+            "result": 2.134831460674157,
+            "name": "330 A (Pützchen / Bechlinghoven / Holtorf / Ungarten)"
+          },
+          {
+            "area": "330 B",
+            "result": 1.8979833926453145,
+            "name": "330 B (Pützchen / Bechlinghoven / Holtorf / Ungarten)"
+          }
+        ]
+      },
+      {
+        "area": "34",
+        "result": 2.754668145683121,
+        "name": "Beuel-Süd / Limperich",
+        "areas": [
+          {
+            "area": "341",
+            "result": 1.9434628975265018,
+            "name": "Ringstr."
+          },
+          {
+            "area": "342",
+            "result": 2.0072992700729926,
+            "name": "Beueler Stadion"
+          },
+          {
+            "area": "343",
+            "result": 4.786324786324787,
+            "name": "Heinrich-Heine-Straße"
+          },
+          {
+            "area": "344",
+            "result": 2.676864244741874,
+            "name": "Küdinghoven-Nord"
+          },
+          {
+            "area": "345",
+            "result": 5.037313432835821,
+            "name": "Beuel-Rheinaue"
+          },
+          {
+            "area": "346",
+            "result": 3.5864978902953584,
+            "name": "Derr-Projekt"
+          },
+          {
+            "area": "340 A",
+            "result": 2.2851919561243146,
+            "name": "340 A (Beuel-Süd / Limperich)"
+          },
+          {
+            "area": "340 B",
+            "result": 1.477377654662973,
+            "name": "340 B (Beuel-Süd / Limperich)"
+          }
+        ]
+      },
+      {
+        "area": "35",
+        "result": 1.6511672044031125,
+        "name": "Holzlar / Hoholz",
+        "areas": [
+          {
+            "area": "351",
+            "result": 0.5535055350553505,
+            "name": "Holzlar-Süd"
+          },
+          {
+            "area": "352",
+            "result": 3.2432432432432434,
+            "name": "Kohlkaul Ost"
+          },
+          {
+            "area": "353",
+            "result": 1.6042780748663104,
+            "name": "Kohlkaul West"
+          },
+          {
+            "area": "354",
+            "result": 2.038369304556355,
+            "name": "Heidebergen"
+          },
+          {
+            "area": "355",
+            "result": 2.320675105485232,
+            "name": "Holzlar-Mitte"
+          },
+          {
+            "area": "356",
+            "result": 1.8624641833810889,
+            "name": "Hoholz/Gielgen"
+          },
+          {
+            "area": "350 A",
+            "result": 1.2775842044134729,
+            "name": "350 A (Holzlar / Hoholz)"
+          },
+          {
+            "area": "350 B",
+            "result": 1.1840688912809472,
+            "name": "350 B (Holzlar / Hoholz)"
+          }
+        ]
+      },
+      {
+        "area": "36",
+        "result": 2.2170982617949626,
+        "name": "Küdinghoven / Ramersdorf / Oberkassel",
+        "areas": [
+          {
+            "area": "361",
+            "result": 3.1189083820662766,
+            "name": "Oberkassel-Nord"
+          },
+          {
+            "area": "362",
+            "result": 3.2015065913371,
+            "name": "Oberkassel-Mitte"
+          },
+          {
+            "area": "363",
+            "result": 1.5296367112810707,
+            "name": "Oberkassel-Süd I"
+          },
+          {
+            "area": "364",
+            "result": 2.1505376344086025,
+            "name": "Oberkassel-Süd II"
+          },
+          {
+            "area": "365",
+            "result": 1.642710472279261,
+            "name": "Oberkassel-Nord"
+          },
+          {
+            "area": "366",
+            "result": 1.680672268907563,
+            "name": "Ramersdorf"
+          },
+          {
+            "area": "367",
+            "result": 2.973977695167286,
+            "name": "Küdinghoven-Süd"
+          },
+          {
+            "area": "360 A",
+            "result": 2.1032504780114722,
+            "name": "360 A (Küdinghoven / Ramersdorf / Oberkassel)"
+          },
+          {
+            "area": "360 B",
+            "result": 1.8885741265344664,
+            "name": "360 B (Küdinghoven / Ramersdorf / Oberkassel)"
+          }
+        ]
+      },
+      {
+        "area": "37",
+        "result": 2.808691043985162,
+        "name": "Vilich / Geislar / Vilich-Müldorf",
+        "areas": [
+          {
+            "area": "371",
+            "result": 1.7094017094017095,
+            "name": "Geislar-West"
+          },
+          {
+            "area": "372",
+            "result": 2.5316455696202533,
+            "name": "Vilich-Müldorf-Nord"
+          },
+          {
+            "area": "373",
+            "result": 3.4482758620689653,
+            "name": "Vilich-Müldorf-Süd"
+          },
+          {
+            "area": "374",
+            "result": 3.2188841201716736,
+            "name": "Vilich"
+          },
+          {
+            "area": "375",
+            "result": 3.4482758620689653,
+            "name": "Neu-Vilich West"
+          },
+          {
+            "area": "376",
+            "result": 2.4734982332155475,
+            "name": "Neu-Vilich Ost"
+          },
+          {
+            "area": "377",
+            "result": 4.0358744394618835,
+            "name": "Geislar-Ost"
+          },
+          {
+            "area": "370 A",
+            "result": 2.3917995444191344,
+            "name": "370 A (Vilich / Geislar / Vilich-Müldorf)"
+          },
+          {
+            "area": "370 B",
+            "result": 2.587991718426501,
+            "name": "370 B (Vilich / Geislar / Vilich-Müldorf)"
+          }
+        ]
+      },
+      {
+        "area": "41",
+        "result": 2.58113494021636,
+        "name": "Lengsdorf / Brüser Berg",
+        "areas": [
+          {
+            "area": "411",
+            "result": 2.9598308668076108,
+            "name": "Erfurtstraße"
+          },
+          {
+            "area": "412",
+            "result": 2.26537216828479,
+            "name": " Fliegerviertel"
+          },
+          {
+            "area": "413",
+            "result": 4.569420035149385,
+            "name": "Lengsdorf-Mitte"
+          },
+          {
+            "area": "414",
+            "result": 2.7777777777777777,
+            "name": "Lengsdorf-Ost"
+          },
+          {
+            "area": "415",
+            "result": 3.3546325878594248,
+            "name": "Hardthöhe"
+          },
+          {
+            "area": "416",
+            "result": 4.514672686230249,
+            "name": "Celsiusstr."
+          },
+          {
+            "area": "410 A",
+            "result": 0.7306889352818371,
+            "name": "410 A (Lengsdorf / Brüser Berg)"
+          },
+          {
+            "area": "410 B",
+            "result": 1.7525773195876289,
+            "name": "410 B (Lengsdorf / Brüser Berg)"
+          }
+        ]
+      },
+      {
+        "area": "42",
+        "result": 2.6515151515151514,
+        "name": "Duisdorf / Finkenhof / Lengsdorf",
+        "areas": [
+          {
+            "area": "421",
+            "result": 4.096385542168675,
+            "name": "St. Augustinus-Kirche"
+          },
+          {
+            "area": "422",
+            "result": 3.3936651583710407,
+            "name": "Köslinstraße"
+          },
+          {
+            "area": "423",
+            "result": 0.4761904761904762,
+            "name": "Duisdorf-Mitte"
+          },
+          {
+            "area": "424",
+            "result": 3.5164835164835164,
+            "name": "Lengsdorf-West"
+          },
+          {
+            "area": "425",
+            "result": 0.9940357852882704,
+            "name": "Finkenhof"
+          },
+          {
+            "area": "426",
+            "result": 3.118503118503119,
+            "name": "Augustinusstraße"
+          },
+          {
+            "area": "427",
+            "result": 3.153153153153153,
+            "name": "Ringelsacker"
+          },
+          {
+            "area": "420 A",
+            "result": 3.139866793529972,
+            "name": "420 A (Duisdorf / Finkenhof / Lengsdorf)"
+          },
+          {
+            "area": "420 B",
+            "result": 2.1515434985968196,
+            "name": "420 B (Duisdorf / Finkenhof / Lengsdorf)"
+          }
+        ]
+      },
+      {
+        "area": "43",
+        "result": 2.5943893693313647,
+        "name": "Duisdorf / Medinghoven",
+        "areas": [
+          {
+            "area": "431",
+            "result": 2.0583190394511153,
+            "name": "Helmholtzstraße"
+          },
+          {
+            "area": "432",
+            "result": 2.2222222222222223,
+            "name": "Duisdorf-Nord"
+          },
+          {
+            "area": "433",
+            "result": 3.4358047016274864,
+            "name": "Duisdorf-Ost"
+          },
+          {
+            "area": "434",
+            "result": 4.732510288065844,
+            "name": "Medinghoven-Nord"
+          },
+          {
+            "area": "435",
+            "result": 1.9464720194647203,
+            "name": "Malteser Krankenhaus"
+          },
+          {
+            "area": "436",
+            "result": 6.521739130434782,
+            "name": "Medinghoven-Süd"
+          },
+          {
+            "area": "430 A",
+            "result": 1.639344262295082,
+            "name": "430 A (Duisdorf / Medinghoven )"
+          },
+          {
+            "area": "430 B",
+            "result": 1.4207650273224044,
+            "name": "430 B (Duisdorf / Medinghoven)"
+          }
+        ]
+      }
+    ],
+    "result": "3.22"
+  },
+  {
+    "poll": "bundestagswahl-2025",
+    "results": [
+      {
+        "area": "01",
+        "result": 17.450415866922583,
+        "name": "Bonn-Zentrum",
+        "areas": [
+          {
+            "area": "011",
+            "result": 19.141914191419144,
+            "name": "City Bonn"
+          },
+          {
+            "area": "012",
+            "result": 14.694894146948942,
+            "name": "Hofgarten"
+          },
+          {
+            "area": "013",
+            "result": 17.67241379310345,
+            "name": "Bundesrechungshof"
+          },
+          {
+            "area": "014",
+            "result": 20.9375,
+            "name": "Sandkaule"
+          },
+          {
+            "area": "015",
+            "result": 17.91044776119403,
+            "name": "Beethovenhalle"
+          },
+          {
+            "area": "010 A",
+            "result": 16.956521739130434,
+            "name": "010 A (Bonn Zentrum)"
+          },
+          {
+            "area": "010 B",
+            "result": 16.900420757363253,
+            "name": "010 B (Bonn Zentrum)"
+          }
+        ]
+      },
+      {
+        "area": "02",
+        "result": 16.399679615538645,
+        "name": "Bonn-Castell / Rheindorf-Süd",
+        "areas": [
+          {
+            "area": "021",
+            "result": 15.745856353591158,
+            "name": "Wichelshof-Ost"
+          },
+          {
+            "area": "022",
+            "result": 23.883161512027492,
+            "name": "Wichelshof-West"
+          },
+          {
+            "area": "023",
+            "result": 9.448818897637794,
+            "name": "Am Römerlager"
+          },
+          {
+            "area": "024",
+            "result": 18.714555765595463,
+            "name": "Römerbad"
+          },
+          {
+            "area": "025",
+            "result": 20.5,
+            "name": "Hafen"
+          },
+          {
+            "area": "020 A",
+            "result": 15.541264737406216,
+            "name": "020 A (Bonn-Castell / Rheindorf-Süd)"
+          },
+          {
+            "area": "020 B",
+            "result": 14.699074074074073,
+            "name": "020 B (Bonn-Castell / Rheindorf-Süd)"
+          }
+        ]
+      },
+      {
+        "area": "03",
+        "result": 26.122969098438993,
+        "name": "Innere Nordstadt",
+        "areas": [
+          {
+            "area": "031",
+            "result": 29.607609988109395,
+            "name": "Wolfstr."
+          },
+          {
+            "area": "032",
+            "result": 25.98105548037889,
+            "name": "Ellerviertel"
+          },
+          {
+            "area": "033",
+            "result": 29.654036243822073,
+            "name": "Sternstraße"
+          },
+          {
+            "area": "034",
+            "result": 29.04820766378245,
+            "name": " Heerstraße"
+          },
+          {
+            "area": "035",
+            "result": 29.750778816199375,
+            "name": "Alter Friedhof"
+          },
+          {
+            "area": "030 A",
+            "result": 22.16606498194946,
+            "name": "030 A (Innere Nordstadt)"
+          },
+          {
+            "area": "030 B",
+            "result": 22.78884462151394,
+            "name": "030 B (Innere Nordstadt)"
+          }
+        ]
+      },
+      {
+        "area": "04",
+        "result": 14.548022598870055,
+        "name": "Baumschulviertel / Südstadt",
+        "areas": [
+          {
+            "area": "041",
+            "result": 16.57142857142857,
+            "name": "Landesmuseum"
+          },
+          {
+            "area": "042",
+            "result": 14.623172103487065,
+            "name": "Elisabethkirche"
+          },
+          {
+            "area": "043",
+            "result": 15.617433414043584,
+            "name": "Baumschulallee"
+          },
+          {
+            "area": "044",
+            "result": 16.477272727272727,
+            "name": "Bonner Talweg"
+          },
+          {
+            "area": "045",
+            "result": 16.25487646293888,
+            "name": "Weberstraße"
+          },
+          {
+            "area": "040 A",
+            "result": 12.389380530973451,
+            "name": "040 A (Baumschulviertel / Südstadt)"
+          },
+          {
+            "area": "040 B",
+            "result": 13.200306983883344,
+            "name": "040 B (Baumschulviertel / Südstadt)"
+          }
+        ]
+      },
+      {
+        "area": "05",
+        "result": 13.263665594855306,
+        "name": "Neu-Tannenbusch / Buschdorf",
+        "areas": [
+          {
+            "area": "051",
+            "result": 10.064516129032258,
+            "name": "Buschdorf-Süd"
+          },
+          {
+            "area": "052",
+            "result": 9.344262295081968,
+            "name": "Buschdorf-Nord"
+          },
+          {
+            "area": "053",
+            "result": 25.465838509316768,
+            "name": "Neu-Tannenbusch-Mitte"
+          },
+          {
+            "area": "054",
+            "result": 31.32530120481928,
+            "name": "Waldenburger Ring"
+          },
+          {
+            "area": "055",
+            "result": 12.918108419838523,
+            "name": "Neu-Tannenbusch EKZ"
+          },
+          {
+            "area": "056",
+            "result": 12.745098039215685,
+            "name": "Friedlandstraße"
+          },
+          {
+            "area": "050 A",
+            "result": 8.04289544235925,
+            "name": "050 A (Neu-Tannenbusch / Buschdorf)"
+          },
+          {
+            "area": "050 B",
+            "result": 10.39671682626539,
+            "name": "050 B (Neu-Tannenbusch / Buschdorf)"
+          }
+        ]
+      },
+      {
+        "area": "06",
+        "result": 13.911845730027547,
+        "name": "Auerberg / Graurheindorf",
+        "areas": [
+          {
+            "area": "061",
+            "result": 22.48939179632249,
+            "name": "Josefshöhe"
+          },
+          {
+            "area": "062",
+            "result": 13.994565217391305,
+            "name": "VAW-Werk"
+          },
+          {
+            "area": "063",
+            "result": 17.270194986072422,
+            "name": "Auerberg-Mitte"
+          },
+          {
+            "area": "064",
+            "result": 10.152284263959391,
+            "name": "Auerberg-Nord"
+          },
+          {
+            "area": "065",
+            "result": 13.386727688787186,
+            "name": "Graurheindorf"
+          },
+          {
+            "area": "060 A",
+            "result": 11.935483870967742,
+            "name": "060 A (Auerberg / Graurheindorf)"
+          },
+          {
+            "area": "060 B",
+            "result": 10.955710955710956,
+            "name": "060 B (Auerberg / Graurheindorf)"
+          }
+        ]
+      },
+      {
+        "area": "07",
+        "result": 18.241298089505364,
+        "name": "Tannenbusch",
+        "areas": [
+          {
+            "area": "071",
+            "result": 37.371134020618555,
+            "name": "Posener Weg"
+          },
+          {
+            "area": "072",
+            "result": 16.417910447761194,
+            "name": "Paulusplatz"
+          },
+          {
+            "area": "073",
+            "result": 16.99248120300752,
+            "name": "Landsberger Straße"
+          },
+          {
+            "area": "074",
+            "result": 22.127659574468083,
+            "name": "Swinemünder Straße"
+          },
+          {
+            "area": "075",
+            "result": 17.51152073732719,
+            "name": "Düne Tannenbusch"
+          },
+          {
+            "area": "070",
+            "result": 11.685823754789272,
+            "name": "070 (Tannenbusch)"
+          }
+        ]
+      },
+      {
+        "area": "08",
+        "result": 11.728913134704154,
+        "name": "Dransdorf / Lessenich / Meßdorf",
+        "areas": [
+          {
+            "area": "081",
+            "result": 16.3265306122449,
+            "name": "Dransdorf-Nord"
+          },
+          {
+            "area": "082",
+            "result": 20.539419087136928,
+            "name": "Hölderlinstraße"
+          },
+          {
+            "area": "083",
+            "result": 13.728813559322035,
+            "name": "Dransdorf-Süd"
+          },
+          {
+            "area": "084",
+            "result": 6.258148631029988,
+            "name": "Meßdorf"
+          },
+          {
+            "area": "085",
+            "result": 10.583153347732182,
+            "name": "Lessenich-Süd"
+          },
+          {
+            "area": "080 A",
+            "result": 12.532299741602069,
+            "name": "080 A (Dransdorf / Lessenich / Meßdorf)"
+          },
+          {
+            "area": "080 B",
+            "result": 7.598371777476255,
+            "name": "080 B (Dransdorf / Lessenich / Meßdorf)"
+          }
+        ]
+      },
+      {
+        "area": "09",
+        "result": 15.904027420736933,
+        "name": "Endenich I",
+        "areas": [
+          {
+            "area": "091",
+            "result": 17.272727272727273,
+            "name": "Alt-Endenich"
+          },
+          {
+            "area": "092",
+            "result": 15.812431842966193,
+            "name": "Endenich-West"
+          },
+          {
+            "area": "093",
+            "result": 18.91891891891892,
+            "name": "Endenich-Ost"
+          },
+          {
+            "area": "094",
+            "result": 16.76040494938133,
+            "name": "Endenich-Süd"
+          },
+          {
+            "area": "090 A",
+            "result": 14.583333333333334,
+            "name": "090 A (Endenich I)"
+          },
+          {
+            "area": "090 B",
+            "result": 13.035714285714286,
+            "name": "090 B (Endenich I)"
+          }
+        ]
+      },
+      {
+        "area": "10",
+        "result": 13.916786226685796,
+        "name": "Poppelsdorf",
+        "areas": [
+          {
+            "area": "101",
+            "result": 13.584288052373159,
+            "name": "Nußallee"
+          },
+          {
+            "area": "102",
+            "result": 13.507109004739338,
+            "name": " Argelanderstraße"
+          },
+          {
+            "area": "103",
+            "result": 16.93548387096774,
+            "name": "Poppelsdorf-West"
+          },
+          {
+            "area": "104",
+            "result": 19.43198804185351,
+            "name": "Poppelsdorf-Ost"
+          },
+          {
+            "area": "105",
+            "result": 9.777015437392796,
+            "name": "Nachtigallenweg"
+          },
+          {
+            "area": "100 A",
+            "result": 14.050303555941024,
+            "name": "100 A (Poppelsdorf)"
+          },
+          {
+            "area": "100 B",
+            "result": 11.405109489051094,
+            "name": "100 B (Poppelsdorf)"
+          }
+        ]
+      },
+      {
+        "area": "11",
+        "result": 13.790335527371969,
+        "name": "Kessenich",
+        "areas": [
+          {
+            "area": "111",
+            "result": 16.113161131611317,
+            "name": "Kessenich-Mitte"
+          },
+          {
+            "area": "112",
+            "result": 16.08695652173913,
+            "name": "Kessenich-Nord"
+          },
+          {
+            "area": "113",
+            "result": 17.86786786786787,
+            "name": "Reutersiedlung"
+          },
+          {
+            "area": "114",
+            "result": 16.20294599018003,
+            "name": "Lotharstraße"
+          },
+          {
+            "area": "115",
+            "result": 14.905933429811865,
+            "name": "Kessenich-Ost"
+          },
+          {
+            "area": "110 A",
+            "result": 10.342084327764518,
+            "name": "110 A (Kessenich)"
+          },
+          {
+            "area": "110 B",
+            "result": 10.149488591660111,
+            "name": "110 B (Kessenich)"
+          }
+        ]
+      },
+      {
+        "area": "12",
+        "result": 12.212798766383964,
+        "name": "Dottendorf / Gronau",
+        "areas": [
+          {
+            "area": "121",
+            "result": 10.649350649350648,
+            "name": "Dottendorf-Süd"
+          },
+          {
+            "area": "122",
+            "result": 15.572232645403378,
+            "name": "Dottendorf-Südwest"
+          },
+          {
+            "area": "123",
+            "result": 13.681241184767279,
+            "name": "Dottendorf-Ost"
+          },
+          {
+            "area": "124",
+            "result": 15.066469719350073,
+            "name": "Dottendorf-Mitte"
+          },
+          {
+            "area": "125",
+            "result": 8.391608391608392,
+            "name": "Gronau"
+          },
+          {
+            "area": "126",
+            "result": 14.885496183206106,
+            "name": "Bergstraße"
+          },
+          {
+            "area": "120 A",
+            "result": 10.024252223120452,
+            "name": "120 A (Dottendorf / Gronau)"
+          },
+          {
+            "area": "120 B",
+            "result": 11.5736885928393,
+            "name": "120 B (Dottendorf / Gronau)"
+          }
+        ]
+      },
+      {
+        "area": "13",
+        "result": 20.767322008016798,
+        "name": "Äußere Nordstadt",
+        "areas": [
+          {
+            "area": "131",
+            "result": 24.008574490889604,
+            "name": "Nordstraße"
+          },
+          {
+            "area": "132",
+            "result": 26.04951560818084,
+            "name": "Adolfstraße"
+          },
+          {
+            "area": "133",
+            "result": 16.61676646706587,
+            "name": "Sportpark Nord"
+          },
+          {
+            "area": "134",
+            "result": 18.124207858048162,
+            "name": "Chlodwig-Platz"
+          },
+          {
+            "area": "130 A",
+            "result": 20.880361173814897,
+            "name": "130 A (Äußere Nordstadt)"
+          },
+          {
+            "area": "130 B",
+            "result": 17.69825918762089,
+            "name": "130 B (Äußere Nordstadt)"
+          }
+        ]
+      },
+      {
+        "area": "14",
+        "result": 17.74246938099967,
+        "name": "Endenich II /  Weststadt",
+        "areas": [
+          {
+            "area": "141",
+            "result": 20.92391304347826,
+            "name": "Immenburgstraße"
+          },
+          {
+            "area": "142",
+            "result": 13.049450549450551,
+            "name": "Musikerviertel-Mitte"
+          },
+          {
+            "area": "143",
+            "result": 17.05539358600583,
+            "name": "Musikerviertel-West"
+          },
+          {
+            "area": "144",
+            "result": 16.049382716049383,
+            "name": "Auf dem Hügel Nord"
+          },
+          {
+            "area": "145",
+            "result": 23.39667458432304,
+            "name": "Auf dem Hügel Süd"
+          },
+          {
+            "area": "140 A",
+            "result": 15.939597315436242,
+            "name": "140 A (Endenich II)"
+          },
+          {
+            "area": "140 B",
+            "result": 17.891939769707708,
+            "name": "140 B (Endenich II)"
+          }
+        ]
+      },
+      {
+        "area": "15",
+        "result": 7.0203934307886655,
+        "name": "Venusberg / Ippendorf",
+        "areas": [
+          {
+            "area": "151",
+            "result": 7.470511140235911,
+            "name": "Klinikum-Venusberg"
+          },
+          {
+            "area": "152",
+            "result": 6.599552572706935,
+            "name": "Haager Weg"
+          },
+          {
+            "area": "153",
+            "result": 8.631319358816276,
+            "name": "Ippendorf-Nord"
+          },
+          {
+            "area": "154",
+            "result": 8.416547788873038,
+            "name": "Ippendorf-Südwest"
+          },
+          {
+            "area": "150 A",
+            "result": 6.1003861003861,
+            "name": "150 A (Venusberg / Ippendorf)"
+          },
+          {
+            "area": "150 B",
+            "result": 6.035283194057568,
+            "name": "150 B (Venusberg / Ippendorf)"
+          }
+        ]
+      },
+      {
+        "area": "16",
+        "result": 5.9264548375580155,
+        "name": "Röttgen / Ückesdorf",
+        "areas": [
+          {
+            "area": "161",
+            "result": 5.385735080058224,
+            "name": " Ückesdorf -Ost"
+          },
+          {
+            "area": "162",
+            "result": 5.29500756429652,
+            "name": "Röttgen-West"
+          },
+          {
+            "area": "163",
+            "result": 8.132147395171538,
+            "name": " Röttgen-Nord"
+          },
+          {
+            "area": "164",
+            "result": 7.253886010362693,
+            "name": "Röttgen-Süd"
+          },
+          {
+            "area": "165",
+            "result": 5.41871921182266,
+            "name": " Ückesdorf-West"
+          },
+          {
+            "area": "160 A",
+            "result": 4.436229205175601,
+            "name": "160 A (Röttgen / Ückesdorf)"
+          },
+          {
+            "area": "160 B",
+            "result": 5.876494023904383,
+            "name": "160 B (Röttgen / Ückesdorf)"
+          }
+        ]
+      },
+      {
+        "area": "21",
+        "result": 10.999814505657577,
+        "name": "Friesdorf",
+        "areas": [
+          {
+            "area": "211",
+            "result": 13.748191027496382,
+            "name": "Turmhaus"
+          },
+          {
+            "area": "212",
+            "result": 11.689961880559085,
+            "name": "Klufterplatz"
+          },
+          {
+            "area": "213",
+            "result": 11.366906474820144,
+            "name": "Dreizehnmorgenweg"
+          },
+          {
+            "area": "214",
+            "result": 10.626702997275205,
+            "name": "In der Kumme"
+          },
+          {
+            "area": "215",
+            "result": 11.837455830388691,
+            "name": "Südstraße"
+          },
+          {
+            "area": "210 A",
+            "result": 9.406952965235174,
+            "name": "210 A (Friesdorf)"
+          },
+          {
+            "area": "210 B",
+            "result": 9.574468085106384,
+            "name": "210 B (Friesdorf)"
+          }
+        ]
+      },
+      {
+        "area": "22",
+        "result": 7.362589298731594,
+        "name": "Villenviertel / Rüngsdorf",
+        "areas": [
+          {
+            "area": "221",
+            "result": 6.422018348623854,
+            "name": "Otto-Kühne-Platz"
+          },
+          {
+            "area": "222",
+            "result": 8.882907133243608,
+            "name": "Plittersdorfer Str."
+          },
+          {
+            "area": "223",
+            "result": 6.697819314641744,
+            "name": "Rüngsdorf"
+          },
+          {
+            "area": "224",
+            "result": 9.424920127795527,
+            "name": "Rüngsdorfer Straße"
+          },
+          {
+            "area": "225",
+            "result": 10.552763819095476,
+            "name": "Mendelsohnstraße"
+          },
+          {
+            "area": "226",
+            "result": 7.982583454281568,
+            "name": "Königsplatz"
+          },
+          {
+            "area": "220 A",
+            "result": 6.563161609033169,
+            "name": "220 A (Villenviertel / Rüngsdorf)"
+          },
+          {
+            "area": "220 B",
+            "result": 5.571635311143271,
+            "name": "220 B (Villenviertel / Rüngsdorf)"
+          }
+        ]
+      },
+      {
+        "area": "23",
+        "result": 10.01475168005245,
+        "name": "Plittersdorf / Hochkreuz",
+        "areas": [
+          {
+            "area": "231",
+            "result": 8.091603053435115,
+            "name": "Hochkreuz"
+          },
+          {
+            "area": "232",
+            "result": 18.740157480314963,
+            "name": "Hindenburgallee"
+          },
+          {
+            "area": "233",
+            "result": 12.9783693843594,
+            "name": "Neckarstraße"
+          },
+          {
+            "area": "234",
+            "result": 10.212765957446807,
+            "name": "Donatusstraße"
+          },
+          {
+            "area": "235",
+            "result": 8.027210884353742,
+            "name": " Steinstraße"
+          },
+          {
+            "area": "236",
+            "result": 11.538461538461538,
+            "name": "Plittersdorf-Mitte"
+          },
+          {
+            "area": "230 A",
+            "result": 7.830783078307831,
+            "name": "230 A (Plittersdorf / Hochkreuz)"
+          },
+          {
+            "area": "230 B",
+            "result": 6.859903381642512,
+            "name": "230 B (Plittersdorf / Hochkreuz)"
+          }
+        ]
+      },
+      {
+        "area": "24",
+        "result": 11.551091365655786,
+        "name": "Bad Godesberg-Mitte",
+        "areas": [
+          {
+            "area": "241",
+            "result": 8.611599297012303,
+            "name": "Schweinheim"
+          },
+          {
+            "area": "242",
+            "result": 11.091549295774648,
+            "name": "Godesberger Burg"
+          },
+          {
+            "area": "243",
+            "result": 17.617866004962778,
+            "name": "Bendelviertel"
+          },
+          {
+            "area": "244",
+            "result": 12.762237762237763,
+            "name": "Rigalsche Wiese"
+          },
+          {
+            "area": "245",
+            "result": 14.02439024390244,
+            "name": "Feuerwache GO"
+          },
+          {
+            "area": "246",
+            "result": 17.44421906693712,
+            "name": "Michaelschule"
+          },
+          {
+            "area": "240 A",
+            "result": 9.482758620689655,
+            "name": "240 A (Bad Godesberg-Mitte)"
+          },
+          {
+            "area": "240 B",
+            "result": 8.494208494208493,
+            "name": "240 B (Bad Godesberg-Mitte)"
+          }
+        ]
+      },
+      {
+        "area": "25",
+        "result": 7.3232323232323235,
+        "name": "Heiderhof / Muffendorf",
+        "areas": [
+          {
+            "area": "251",
+            "result": 7.131011608623548,
+            "name": " Marienforster Straße"
+          },
+          {
+            "area": "252",
+            "result": 10.750853242320819,
+            "name": "Heiderhof-Süd"
+          },
+          {
+            "area": "253",
+            "result": 6.779661016949152,
+            "name": "Muffendorf"
+          },
+          {
+            "area": "254",
+            "result": 5.654761904761905,
+            "name": "Lyngsberg"
+          },
+          {
+            "area": "255",
+            "result": 9.65034965034965,
+            "name": "Heiderhof-Nord"
+          },
+          {
+            "area": "250 A",
+            "result": 6.269592476489027,
+            "name": "250 A (Heiderhof / Muffendorf)"
+          },
+          {
+            "area": "250 B",
+            "result": 6.174200661521499,
+            "name": "250 B (Heiderhof / Muffendorf)"
+          }
+        ]
+      },
+      {
+        "area": "26",
+        "result": 10.848658680614138,
+        "name": "Pennenfeld / Lannesdorf",
+        "areas": [
+          {
+            "area": "261",
+            "result": 10.440456769983687,
+            "name": "Behringstraße"
+          },
+          {
+            "area": "262",
+            "result": 11.449451887941535,
+            "name": "Lannesdorf-West"
+          },
+          {
+            "area": "263",
+            "result": 16.083916083916083,
+            "name": " Pennenfeld-Mitte"
+          },
+          {
+            "area": "264",
+            "result": 16.60839160839161,
+            "name": "Pennenfeld-Süd"
+          },
+          {
+            "area": "265",
+            "result": 11.125,
+            "name": "Meisengarten"
+          },
+          {
+            "area": "266",
+            "result": 9.724473257698541,
+            "name": "Lannesdorf-Ost"
+          },
+          {
+            "area": "260 A",
+            "result": 8.25593395252838,
+            "name": "260 A (Pennenfeld / Lannesdorf)"
+          },
+          {
+            "area": "260 B",
+            "result": 7.165109034267912,
+            "name": "260 B (Pennenfeld / Lannesdorf)"
+          }
+        ]
+      },
+      {
+        "area": "27",
+        "result": 12.151292144446346,
+        "name": "Mehlem",
+        "areas": [
+          {
+            "area": "271",
+            "result": 12.066365007541478,
+            "name": "Utestraße"
+          },
+          {
+            "area": "272",
+            "result": 22.372881355932204,
+            "name": " Antoniterstraße"
+          },
+          {
+            "area": "273",
+            "result": 16.89291101055807,
+            "name": " Domhofstraße"
+          },
+          {
+            "area": "274",
+            "result": 13.725490196078432,
+            "name": "Mehlem-Mitte"
+          },
+          {
+            "area": "275",
+            "result": 11.336515513126491,
+            "name": "Obermehlem"
+          },
+          {
+            "area": "276",
+            "result": 11.650485436893204,
+            "name": "Mehlem-Rheinaue"
+          },
+          {
+            "area": "270 A",
+            "result": 6.451612903225806,
+            "name": "270 A (Mehlem)"
+          },
+          {
+            "area": "270 B",
+            "result": 8.073196986006458,
+            "name": "270 B (Mehlem)"
+          }
+        ]
+      },
+      {
+        "area": "31",
+        "result": 13.572037510656438,
+        "name": "Beuel-Zentrum",
+        "areas": [
+          {
+            "area": "311",
+            "result": 20.318725099601593,
+            "name": "Beuel-Ost"
+          },
+          {
+            "area": "312",
+            "result": 11.868390129259694,
+            "name": "Agnesstraße"
+          },
+          {
+            "area": "313",
+            "result": 16.9344870210136,
+            "name": "St. Augustiner Straße"
+          },
+          {
+            "area": "314",
+            "result": 14.404761904761903,
+            "name": "Bahnhof Beuel"
+          },
+          {
+            "area": "310 A",
+            "result": 10.95890410958904,
+            "name": "310 A (Beuel-Zentrum)"
+          },
+          {
+            "area": "310 B",
+            "result": 10.785824345146379,
+            "name": "310 B (Beuel-Zentrum)"
+          }
+        ]
+      },
+      {
+        "area": "32",
+        "result": 11.004478566858605,
+        "name": "Schwarzrheindorf / Vilich-Rheindorf / Combahnviertel",
+        "areas": [
+          {
+            "area": "321",
+            "result": 8.610567514677104,
+            "name": "Vilich-Rheindorf-West"
+          },
+          {
+            "area": "322",
+            "result": 10.320284697508896,
+            "name": "Schwarzrheindorf-Süd"
+          },
+          {
+            "area": "323",
+            "result": 11.497730711043873,
+            "name": "Schwarzrheindorf-Nord"
+          },
+          {
+            "area": "324",
+            "result": 16.49484536082474,
+            "name": "Combahn"
+          },
+          {
+            "area": "325",
+            "result": 13.62088535754824,
+            "name": "Vilich-Rheindorf-Ost"
+          },
+          {
+            "area": "320 A",
+            "result": 9.045584045584047,
+            "name": "320 A (Schwarzrheindorf/Vilich-Rheindorf/Combahnviertel)"
+          },
+          {
+            "area": "320 B",
+            "result": 8.75,
+            "name": "320 B (Schwarzrheindorf/Vilich-Rheindorf/Combahnviertel)"
+          }
+        ]
+      },
+      {
+        "area": "33",
+        "result": 10.70965351120993,
+        "name": "Pützchen / Bechlinghoven / Holtorf / Ungarten",
+        "areas": [
+          {
+            "area": "331",
+            "result": 7.8431372549019605,
+            "name": "Holtorf"
+          },
+          {
+            "area": "332",
+            "result": 11.30524152106886,
+            "name": "Bechlinghoven"
+          },
+          {
+            "area": "333",
+            "result": 12.563451776649744,
+            "name": "Pützchen-Ost"
+          },
+          {
+            "area": "334",
+            "result": 20.086083213773314,
+            "name": "Pützchen-West"
+          },
+          {
+            "area": "330 A",
+            "result": 8.317757009345794,
+            "name": "330 A (Pützchen / Bechlinghoven / Holtorf / Ungarten)"
+          },
+          {
+            "area": "330 B",
+            "result": 7.21747388414055,
+            "name": "330 B (Pützchen / Bechlinghoven / Holtorf / Ungarten)"
+          }
+        ]
+      },
+      {
+        "area": "34",
+        "result": 9.55137481910275,
+        "name": "Beuel-Süd / Limperich",
+        "areas": [
+          {
+            "area": "341",
+            "result": 9.923664122137405,
+            "name": "Ringstr."
+          },
+          {
+            "area": "342",
+            "result": 10.08,
+            "name": "Beueler Stadion"
+          },
+          {
+            "area": "343",
+            "result": 10.526315789473683,
+            "name": "Heinrich-Heine-Straße"
+          },
+          {
+            "area": "344",
+            "result": 9.269662921348315,
+            "name": "Küdinghoven-Nord"
+          },
+          {
+            "area": "345",
+            "result": 10.172143974960877,
+            "name": "Beuel-Rheinaue"
+          },
+          {
+            "area": "346",
+            "result": 12.040816326530612,
+            "name": "Derr-Projekt"
+          },
+          {
+            "area": "340 A",
+            "result": 8.635996771589992,
+            "name": "340 A (Beuel-Süd / Limperich)"
+          },
+          {
+            "area": "340 B",
+            "result": 8.25531914893617,
+            "name": "340 B (Beuel-Süd / Limperich)"
+          }
+        ]
+      },
+      {
+        "area": "35",
+        "result": 7.385570209464701,
+        "name": "Holzlar / Hoholz",
+        "areas": [
+          {
+            "area": "351",
+            "result": 5.970149253731343,
+            "name": "Holzlar-Süd"
+          },
+          {
+            "area": "352",
+            "result": 9.6579476861167,
+            "name": "Kohlkaul Ost"
+          },
+          {
+            "area": "353",
+            "result": 12.363636363636363,
+            "name": "Kohlkaul West"
+          },
+          {
+            "area": "354",
+            "result": 5.5045871559633035,
+            "name": "Heidebergen"
+          },
+          {
+            "area": "355",
+            "result": 8.077544426494345,
+            "name": "Holzlar-Mitte"
+          },
+          {
+            "area": "356",
+            "result": 6.407035175879397,
+            "name": "Hoholz/Gielgen"
+          },
+          {
+            "area": "350 A",
+            "result": 6.8833652007648185,
+            "name": "350 A (Holzlar / Hoholz)"
+          },
+          {
+            "area": "350 B",
+            "result": 5.844155844155844,
+            "name": "350 B (Holzlar / Hoholz)"
+          }
+        ]
+      },
+      {
+        "area": "36",
+        "result": 8.775137111517367,
+        "name": "Küdinghoven / Ramersdorf / Oberkassel",
+        "areas": [
+          {
+            "area": "361",
+            "result": 11.226252158894647,
+            "name": "Oberkassel-Nord"
+          },
+          {
+            "area": "362",
+            "result": 9.78441127694859,
+            "name": "Oberkassel-Mitte"
+          },
+          {
+            "area": "363",
+            "result": 6.3467492260061915,
+            "name": "Oberkassel-Süd I"
+          },
+          {
+            "area": "364",
+            "result": 12.478336221837088,
+            "name": "Oberkassel-Süd II"
+          },
+          {
+            "area": "365",
+            "result": 9.020217729393467,
+            "name": "Oberkassel-Nord"
+          },
+          {
+            "area": "366",
+            "result": 10.185185185185185,
+            "name": "Ramersdorf"
+          },
+          {
+            "area": "367",
+            "result": 10.084033613445378,
+            "name": "Küdinghoven-Süd"
+          },
+          {
+            "area": "360 A",
+            "result": 6.870860927152318,
+            "name": "360 A (Küdinghoven / Ramersdorf / Oberkassel)"
+          },
+          {
+            "area": "360 B",
+            "result": 7.075873827791987,
+            "name": "360 B (Küdinghoven / Ramersdorf / Oberkassel)"
+          }
+        ]
+      },
+      {
+        "area": "37",
+        "result": 10.222155508856199,
+        "name": "Vilich / Geislar / Vilich-Müldorf",
+        "areas": [
+          {
+            "area": "371",
+            "result": 8.333333333333332,
+            "name": "Geislar-West"
+          },
+          {
+            "area": "372",
+            "result": 9.782608695652174,
+            "name": "Vilich-Müldorf-Nord"
+          },
+          {
+            "area": "373",
+            "result": 13.988919667590027,
+            "name": "Vilich-Müldorf-Süd"
+          },
+          {
+            "area": "374",
+            "result": 11.461794019933555,
+            "name": "Vilich"
+          },
+          {
+            "area": "375",
+            "result": 11.464968152866243,
+            "name": "Neu-Vilich West"
+          },
+          {
+            "area": "376",
+            "result": 9.620596205962059,
+            "name": "Neu-Vilich Ost"
+          },
+          {
+            "area": "377",
+            "result": 11.992619926199263,
+            "name": "Geislar-Ost"
+          },
+          {
+            "area": "370 A",
+            "result": 8.931552587646078,
+            "name": "370 A (Vilich / Geislar / Vilich-Müldorf)"
+          },
+          {
+            "area": "370 B",
+            "result": 8.088235294117647,
+            "name": "370 B (Vilich / Geislar / Vilich-Müldorf)"
+          }
+        ]
+      },
+      {
+        "area": "41",
+        "result": 9.63076923076923,
+        "name": "Lengsdorf / Brüser Berg",
+        "areas": [
+          {
+            "area": "411",
+            "result": 7.591240875912408,
+            "name": "Erfurtstraße"
+          },
+          {
+            "area": "412",
+            "result": 11.662531017369728,
+            "name": " Fliegerviertel"
+          },
+          {
+            "area": "413",
+            "result": 13.108108108108107,
+            "name": "Lengsdorf-Mitte"
+          },
+          {
+            "area": "414",
+            "result": 8.972503617945007,
+            "name": "Lengsdorf-Ost"
+          },
+          {
+            "area": "415",
+            "result": 7.573812580231065,
+            "name": "Hardthöhe"
+          },
+          {
+            "area": "416",
+            "result": 14.852941176470589,
+            "name": "Celsiusstr."
+          },
+          {
+            "area": "410 A",
+            "result": 9.559512652296158,
+            "name": "410 A (Lengsdorf / Brüser Berg)"
+          },
+          {
+            "area": "410 B",
+            "result": 5.608365019011407,
+            "name": "410 B (Lengsdorf / Brüser Berg)"
+          }
+        ]
+      },
+      {
+        "area": "42",
+        "result": 11.374832064487236,
+        "name": "Duisdorf / Finkenhof / Lengsdorf",
+        "areas": [
+          {
+            "area": "421",
+            "result": 15.991902834008098,
+            "name": "St. Augustinus-Kirche"
+          },
+          {
+            "area": "422",
+            "result": 15.922330097087379,
+            "name": "Köslinstraße"
+          },
+          {
+            "area": "423",
+            "result": 8.979591836734693,
+            "name": "Duisdorf-Mitte"
+          },
+          {
+            "area": "424",
+            "result": 15.040000000000001,
+            "name": "Lengsdorf-West"
+          },
+          {
+            "area": "425",
+            "result": 9.253246753246753,
+            "name": "Finkenhof"
+          },
+          {
+            "area": "426",
+            "result": 15.88156123822342,
+            "name": "Augustinusstraße"
+          },
+          {
+            "area": "427",
+            "result": 14.072847682119205,
+            "name": "Ringelsacker"
+          },
+          {
+            "area": "420 A",
+            "result": 7.634164777021919,
+            "name": "420 A (Duisdorf / Finkenhof / Lengsdorf)"
+          },
+          {
+            "area": "420 B",
+            "result": 7.91311093871218,
+            "name": "420 B (Duisdorf / Finkenhof / Lengsdorf)"
+          }
+        ]
+      },
+      {
+        "area": "43",
+        "result": 12.705198358413133,
+        "name": "Duisdorf / Medinghoven",
+        "areas": [
+          {
+            "area": "431",
+            "result": 15.497076023391813,
+            "name": "Helmholtzstraße"
+          },
+          {
+            "area": "432",
+            "result": 7.093425605536333,
+            "name": "Duisdorf-Nord"
+          },
+          {
+            "area": "433",
+            "result": 12.875536480686694,
+            "name": "Duisdorf-Ost"
+          },
+          {
+            "area": "434",
+            "result": 17.535545023696685,
+            "name": "Medinghoven-Nord"
+          },
+          {
+            "area": "435",
+            "result": 11.423220973782772,
+            "name": "Malteser Krankenhaus"
+          },
+          {
+            "area": "436",
+            "result": 24.561403508771928,
+            "name": "Medinghoven-Süd"
+          },
+          {
+            "area": "430 A",
+            "result": 10.178571428571429,
+            "name": "430 A (Duisdorf / Medinghoven )"
+          },
+          {
+            "area": "430 B",
+            "result": 8.647654093836247,
+            "name": "430 B (Duisdorf / Medinghoven)"
+          }
+        ]
+      }
+    ],
+    "result": "12.45"
+  }
+]
