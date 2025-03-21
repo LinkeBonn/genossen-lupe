@@ -53,16 +53,15 @@ var geojsonMarkerOptions = {
 };
 
 const companyColors = {
-  "LEG": "#377eb8", // Blau
-  "Sahle Wohnen": "#ffff33", // Gelb
-  "ENKAS": "#ff7f00", // Orange
-  "Vonovia": "#e41a1c", // Rot
-  "Net Zero Properties Group": "#e41a1c", // Rot
-  "Heimstaden": "#999999", // Grau
-  "Viva West": "#984ea3", // Lila
-  "RheinHaus": "#f781bf", // Pink
-  "DERR Wohnbau": "#4daf4a", // Grün
-};
+  "LEG": "#377eb8",
+  "Sahle Wohnen": "#ffff33",
+  "ENKAS": "#ff7f00",
+  "Vonovia": "#e41a1c",
+  "Net Zero Properties Group": "#e41a1c",
+  "Heimstaden": "#999999",
+  "Viva West": "#984ea3",
+  "RheinHaus": "#f781bf",
+  "DERR Wohnbau": "#4daf4a",
 
 const loadGeoJson = async () => {
   if (geoclient) {
