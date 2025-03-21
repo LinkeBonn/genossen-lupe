@@ -75,7 +75,7 @@ const options = computed(() => {
         },
         ticks: {
           color: isDark.value ? '#ddd' : '#111',
-        }
+        },
       },
       y: {
         title: {
@@ -91,7 +91,9 @@ const options = computed(() => {
             return value + '%';
           },
           color: isDark.value ? '#ddd' : '#111',
-        }
+        },
+        beginAtZero: true,
+        max: 40
       }
     },
     plugins: {
