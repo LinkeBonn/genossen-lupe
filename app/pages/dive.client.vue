@@ -1,16 +1,13 @@
 <template>
-  <Download link="/data/deep-dive.json"/>
   <div class="content-box">
-    <ClientOnly>
       <div class="content">
         <ResultLinechart v-if="datasource" :data="datasource"/>
-        <div class="detailed-box">
-          <div v-if="areaDatasource" v-for="areapoint in areaDatasource" class="detail">
+        <div v-if="areaDatasource" class="detailed-box">
+          <div v-for="(areapoint, index) in areaDatasource" :key="index" class="detail">
             <ResultLinechart :data="areapoint"/>
           </div>
         </div>
       </div>
-    </ClientOnly>
   </div>
 </template>
 
