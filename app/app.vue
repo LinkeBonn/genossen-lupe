@@ -1,7 +1,6 @@
 <template>
   <UApp>
     <SiteNav/>
-    <ColorModeButton/>
     <NuxtPage />
   </UApp>
 </template>

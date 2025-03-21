@@ -1,5 +1,5 @@
 <template>
-  <Line :data="data" :options="options" />
+  <Line :data="data" :options="options"/>
 </template>
 
 <script setup lang="ts">
@@ -32,6 +32,16 @@ const props = defineProps({
   }
 })
 
+const colorMode = useColorMode()
+const isDark = computed({
+  get() {
+    return colorMode.value === 'dark'
+  },
+  set() {
+    colorMode.preference = colorMode.value === 'dark' ? 'light' : 'dark'
+  }
+})
+
 const getData = () => {
   let votes: string[] = [];
   let names: string[] = [];
@@ -55,42 +65,44 @@ const getData = () => {
 
 const data = computed(() => getData());
 
-const options = {
-  responsive: true,
-  scales: {
-    x: {
-      grid: {
-        color: '#fff5',
+const options = computed(() => {
+  return {
+    responsive: true,
+    scales: {
+      x: {
+        grid: {
+          color: isDark.value ? '#ddd3' : '#1113',
+        },
+        ticks: {
+          color: isDark.value ? '#ddd' : '#111',
+        }
       },
-      ticks: {
-        color: '#ffff',
+      y: {
+        title: {
+          text: 'Wahlergebnis in Prozent',
+          color: isDark.value ? '#ddd' : '#111',
+          display: true
+        },
+        grid: {
+          color: isDark.value ? '#ddd3' : '#1113',
+        },
+        ticks: {
+          callback: function (value: any) {
+            return value + '%';
+          },
+          color: isDark.value ? '#ddd' : '#111',
+        }
       }
     },
-    y: {
-      grid: {
-        color: '#fff5',
-      },
-      title: {
-        text: 'Wahlergebnis in Prozent',
-        color: '#ffff',
-        display: true
-      },
-      ticks: {
-        callback: function (value: any) {
-          return value + '%';
-        },
-        color: '#ffff',
-      }
-    }
-  },
-  plugins: {
-    legend: {
-      labels: {
-        color: '#fff',
+    plugins: {
+      legend: {
+        labels: {
+          color: isDark.value ? '#ddd' : '#111',
+        }
       }
     }
   }
-}
+})
 </script>
 
 <style scoped>

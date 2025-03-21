@@ -1,14 +1,16 @@
 <template>
   <Download link="/data/deep-dive.json"/>
   <div class="content-box">
-  <div class="content">
-      <ResultLinechart v-if="datasource" :data="datasource"/>
-  <div class="detailed-box">
-      <div v-if="areaDatasource" v-for="areapoint in areaDatasource" class="detail">
-        <ResultLinechart :data="areapoint"/>
+    <ClientOnly>
+      <div class="content">
+        <ResultLinechart v-if="datasource" :data="datasource"/>
+        <div class="detailed-box">
+          <div v-if="areaDatasource" v-for="areapoint in areaDatasource" class="detail">
+            <ResultLinechart :data="areapoint"/>
+          </div>
+        </div>
       </div>
-  </div>
-  </div>
+    </ClientOnly>
   </div>
 </template>
 
@@ -23,20 +25,19 @@ const fetchDataSource = async () => {
 }
 
 const generatedAreaDatasource = () => {
-  if(datasource.value) {
+  if (datasource.value) {
     const areaNumbers = generateAreaList(datasource.value[0].results);
     areaNumbers.forEach((areaNumber: any) => {
       const areaResults = [];
       datasource.value.forEach((element: any) => {
         element.results.forEach((result: any) => {
-          if(result.area === areaNumber) {
+          if (result.area === areaNumber) {
             areaResults.push({result: result.result, name: element.poll, areaname: result.name});
           }
         })
       })
       areaDatasource.value.push(areaResults);
     })
-    console.log(areaDatasource.value)
   }
 }
 

@@ -26,7 +26,7 @@ const props = defineProps({
 const getData = () => {
   let votes: number[] = [];
   let names: string[] = [];
-  if(data.value && data.value.features) {
+  if (data.value && data.value.features) {
     data.value.features.forEach((feature: any) => {
       votes.push(Number(feature.properties['votes-in-percent']));
       names.push(feature.properties['area-name']);
@@ -47,42 +47,54 @@ const getData = () => {
 const data = computed(() => props.data)
 const dataTransformed = computed(() => getData());
 
-const options = {
-  responsive: true,
-  scales: {
-    x: {
-      grid: {
-        color: '#fff5',
+const colorMode = useColorMode()
+const isDark = computed({
+  get() {
+    return colorMode.value === 'dark'
+  },
+  set() {
+    colorMode.preference = colorMode.value === 'dark' ? 'light' : 'dark'
+  }
+})
+
+const options = computed(() => {
+  return {
+    responsive: true,
+    scales: {
+      x: {
+        grid: {
+          color: isDark.value ? '#ddd3' : '#1113',
+        },
+        ticks: {
+          color: isDark.value ? '#ddd' : '#111',
+        }
       },
-      ticks: {
-        color: '#ffff',
+      y: {
+        grid: {
+          color: isDark.value ? '#ddd3' : '#1113',
+        },
+        title: {
+          text: 'Wahlergebnis in Prozent',
+          color: isDark.value ? '#ddd' : '#111',
+          display: true
+        },
+        ticks: {
+          callback: function (value: any) {
+            return value + '%';
+          },
+          color: isDark.value ? '#ddd' : '#111'
+        }
       }
     },
-    y: {
-      grid: {
-        color: '#fff5',
-      },
-      title: {
-        text: 'Wahlergebnis in Prozent',
-        color: '#ffff',
-        display: true
-      },
-      ticks: {
-        callback: function (value: any) {
-          return value + '%';
-        },
-        color: '#ffff',
-      }
-    }
-  },
-  plugins: {
-    legend: {
-      labels: {
-        color: '#fff',
+    plugins: {
+      legend: {
+        labels: {
+          color: isDark.value ? '#ddd' : '#111',
+        }
       }
     }
   }
-}
+})
 </script>
 
 <style scoped>

@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const links = ref([
-  {
+  [{
     label: 'Wahlergbenisse',
     children: [
       {
@@ -25,10 +25,24 @@ const links = ref([
       }
     ],
   },
-  {
-    label: 'Wahl Verlauf',
-    to: '/dive',
-  }
+    {
+      label: 'Struckturdaten',
+      children: [
+        {
+          label: 'Wohnungsbaugeselschafften Bonn',
+          value: 'Wohnungsbaugeselschafften Bonn',
+          to: '/struckturdaten/wohnungsbaugesellschaften_bonn'
+        }
+      ]
+    },
+    {
+      label: 'Wahl Verlauf',
+      to: '/dive',
+    }],
+  [{
+    label: 'Colormode',
+    slot: 'colormode',
+  }]
 ])
 </script>
 
@@ -40,7 +54,13 @@ const links = ref([
         highlight
         highlight-color="primary"
         orientation="horizontal"
-    />
+    >
+      <template #colormode>
+        <ClientOnly>
+          <ColorModeButton/>
+        </ClientOnly>
+      </template>
+    </UNavigationMenu>
   </div>
 </template>
 

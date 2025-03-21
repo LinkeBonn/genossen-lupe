@@ -5,6 +5,19 @@
   --font-sans: 'Public Sans', sans-serif;
 }
 
+:root {
+  body{
+    --ui-text-muted: #111;
+  }
+}
+
+:root[class~='dark'] {
+  body{
+    --ui-text-muted: #ddd;
+  }
+}
+
+
 @theme static {
   --color-tyrian-purple-50: #fef1fa;
   --color-tyrian-purple-100: #fee5f7;
