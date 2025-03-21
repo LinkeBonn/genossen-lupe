@@ -43,6 +43,27 @@ const onEachFeature = (feature: any, layer: any) => {
   }
 }
 
+var geojsonMarkerOptions = {
+  radius: 8,
+  fillColor: "#ff7800",
+  color: "#000",
+  weight: 1,
+  opacity: 1,
+  fillOpacity: 0.8
+};
+
+const companyColors = {
+  "LEG": "#377eb8", // Blau
+  "Sahle Wohnen": "#ffff33", // Gelb
+  "ENKAS": "#ff7f00", // Orange
+  "Vonovia": "#e41a1c", // Rot
+  "Net Zero Properties Group": "#e41a1c", // Rot
+  "Heimstaden": "#999999", // Grau
+  "Viva West": "#984ea3", // Lila
+  "RheinHaus": "#f781bf", // Pink
+  "DERR Wohnbau": "#4daf4a", // Grün
+};
+
 const loadGeoJson = async () => {
   if (geoclient) {
     map.value.leafletObject.removeLayer(geoclient)
@@ -52,6 +73,14 @@ const loadGeoJson = async () => {
   if (geojson.value) {
     geoclient = L.geoJSON(geojson.value, {
       onEachFeature: onEachFeature,
+      pointToLayer: function (feature, latlng) {
+        if(feature.properties && feature.properties.wohnungsbaugesellschaft) {
+          const styledMarker = geojsonMarkerOptions;
+          styledMarker.fillColor = companyColors[feature.properties.wohnungsbaugesellschaft];
+          return L.circleMarker(latlng, styledMarker);
+        }
+        return L.circleMarker(latlng, geojsonMarkerOptions);
+      }
     }).addTo(map.value.leafletObject);
   }
 }
