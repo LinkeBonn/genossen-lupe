@@ -62,6 +62,7 @@ const companyColors = {
   "Viva West": "#984ea3",
   "RheinHaus": "#f781bf",
   "DERR Wohnbau": "#4daf4a",
+}
 
 const loadGeoJson = async () => {
   if (geoclient) {
