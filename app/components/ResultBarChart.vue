@@ -28,7 +28,7 @@ const getData = () => {
   let names: string[] = [];
   if (data.value && data.value.features) {
     data.value.features.forEach((feature: any) => {
-      votes.push(Number(feature.properties['votes-in-percent']));
+      votes.push(Number(feature.properties['votes-in-percent-resultPdl']));
       names.push(feature.properties['area-name']);
     });
   }

@@ -4,8 +4,9 @@
     <div class="select-box">
       <USelect v-model="vote" :items="votes" />
       <USelect v-model="area" :items="areas" />
+      <USelect v-model="mode" :items="modes"/>
     </div>
-    <UCheckbox v-model="potential" label="Potential Nichtwähler" />
+    <!--<UCheckbox v-model="potential" label="Potential Nichtwähler" />-->
   </div>
   <LMap
       ref="map"
@@ -30,6 +31,7 @@
     </LControl>
     <LControl position="topright" v-if="infoTextPercent && infoTextName && infoTextNumber">
       <div class="legend-box">
+        <span>{{infoTextParty}}</span>
         <span>{{ infoTextNumber }}</span>
         <span>{{ infoTextName }}</span>
         <span>{{ infoTextPercent }}%</span>
@@ -63,34 +65,74 @@ const votes = computed(() => {
 })
 const areas = ["Stimmbezirk", "Wahlbezirk"]
 
+const modes = ["Die Linke", "Gewinner"]
+
 const map = ref(null)
 const geojson = ref(undefined)
 const infoTextNumber = ref("")
 const infoTextName = ref("")
+const infoTextParty = ref("")
 const infoTextPercent = ref("")
 const infoLegendMax = ref("0")
 const infoLegendMin = ref("0")
 const vote = ref(votes.value[0])
 const area = ref(areas[0])
+const mode = ref(modes[0])
 const potential = ref(false)
+
+const resultkeys = [
+  'Pdl',
+  'CDU',
+  'SPD',
+  'B90',
+  'AfD',
+  'BSW',
+  'FDP',
+]
 
 var geoclient: any;
 
 const geoStyler = (feature: any) => {
+  let fillColor = "#fff"
+  if(mode.value === 'Die Linke'){
+    fillColor = getFillColor("Pdl", feature.properties['votes-in-percent-resultPdl'])
+  }else if(mode.value === "Gewinner"){
+    fillColor = getFillColor(getWinner(feature), feature.properties[`votes-in-percent-result${getWinner(feature)}`])
+  }
   return {
     fillOpacity: 0.8,
-    fillColor: feature.properties.fill,
+    fillColor: fillColor,
     weight: 1.2,
     color: '#fff',
   }
+}
+
+const getWinner = (feature: any) => {
+  let winnerResult = 0;
+  let winnerParty = ""
+  resultkeys.forEach((key) => {
+    console.log(feature.properties)
+    if(Number(feature.properties[`votes-in-percent-result${key}`]) > Number(winnerResult)) {
+      console.log(winnerResult)
+      winnerResult = Number(feature.properties[`votes-in-percent-result${key}`]);
+      winnerParty = key;
+    }
+  })
+  return winnerParty
 }
 
 function highlightFeature(e: any) {
   var layer = e.target;
 
   infoTextName.value = layer.feature.properties['area-name'];
-  infoTextPercent.value = potential.value ? layer.feature.properties['potential'].toFixed(2) : layer.feature.properties['votes-in-percent'];
   infoTextNumber.value = layer.feature.properties['area-number'];
+  if(mode.value === "Die Linke"){
+    infoTextPercent.value = potential.value ? layer.feature.properties['potential'].toFixed(2) : layer.feature.properties['votes-in-percent-resultPdl'];
+    infoTextParty.value = "PdL"
+  }else if(mode.value === "Gewinner"){
+    infoTextPercent.value = layer.feature.properties[`votes-in-percent-result${getWinner(layer.feature)}`];
+    infoTextParty.value = getWinner(layer.feature);
+  }
 
   layer.setStyle({
     weight: 2,
@@ -122,6 +164,10 @@ watch(area, (newVal) => {
   emits('onAreaChange', {vote: vote.value, area: newVal})
 })
 
+watch(mode, (newVal) => {
+  loadGeoJson(vote.value, area.value, potential.value)
+})
+
 watch(potential, (newVal) => {
   loadGeoJson(vote.value, area.value, newVal)
 })
@@ -146,6 +192,37 @@ const getMin = (dataset: any) => {
   return  minVote;
 }
 
+const getFillColor = (party: string, result: number) => {
+  const coefficient = 100 / Number(infoLegendMax.value);
+  const newOpacity = Math.round(((result * coefficient) / 100) * 10) / 10;
+  if(party === "Pdl"){
+    return hslToHex(300, 100, 100 - 50 * newOpacity)
+  }else if(party === "CDU"){
+    return hslToHex(28, 100, 100 - 50 * newOpacity)
+  }else if(party === "SPD"){
+    return hslToHex(360, 100, 100 - 50 * newOpacity)
+  }else if(party === "B90"){
+    return hslToHex(120, 100, 100 - 50 * newOpacity)
+  }else if(party === "BSW"){
+    return hslToHex(275, 100, 100 - 50 * newOpacity)
+  }else if(party === "FDP"){
+    return hslToHex(58, 100, 100 - 50 * newOpacity)
+  }else if(party === "AfD"){
+    return hslToHex(225, 100, 100 - 50 * newOpacity)
+  }
+}
+
+function hslToHex(h, s, l) {
+  l /= 100;
+  const a = s * Math.min(l, 1 - l) / 100;
+  const f = n => {
+    const k = (n + h / 30) % 12;
+    const color = l - a * Math.max(Math.min(k - 3, 9 - k, 1), -1);
+    return Math.round(255 * color).toString(16).padStart(2, '0');   // convert to Hex and prefix "0" if needed
+  };
+  return `#${f(0)}${f(8)}${f(4)}`;
+}
+
 
 
 const loadGeoJson = async (vote: string, area: string, potential = false) => {
@@ -157,17 +234,24 @@ const loadGeoJson = async (vote: string, area: string, potential = false) => {
   if (geojson.value) {
 
     if(potential) {
-      const dataset = geojson.value.features.map((feature: any) => feature.properties['potential'])
+      const dataset = geojson.value.features.map((feature: any) => feature.properties['participation'] * 100)
       infoLegendMax.value = getMax(dataset).toFixed(2);
       infoLegendMin.value = getMin(dataset).toFixed(2);
-
+      const coefficient = 100 / Number(infoLegendMax.value);
       geojson.value.features.forEach((feature: any) => {
-        feature.properties['fill'] = feature.properties['potential-fill']
+        const newOpacity = Math.round(((feature.properties['participation'] * coefficient) / 100) * 10) / 10;
+        feature.properties['fill'] = hslToHex(360, 100, 100 - 50 * newOpacity)
       })
     }else{
-      const dataset = geojson.value.features.map((feature: any) => feature.properties['votes-in-percent'])
-      infoLegendMax.value = getMax(dataset).toFixed(2);
-      infoLegendMin.value = getMin(dataset).toFixed(2);
+      if(mode.value === "Die Linke"){
+        const dataset = geojson.value.features.map((feature: any) => feature.properties['votes-in-percent-resultPdl']);
+        infoLegendMax.value = getMax(dataset).toFixed(2);
+        infoLegendMin.value = getMin(dataset).toFixed(2);
+      }else if(mode.value === "Gewinner"){
+        const dataset = geojson.value.features.map((feature: any) => feature.properties[`votes-in-percent-result${getWinner(feature)}`]);
+        infoLegendMax.value = getMax(dataset).toFixed(2);
+        infoLegendMin.value = getMin(dataset).toFixed(2);
+      }
     }
 
     geoclient = L.geoJSON(geojson.value, {
@@ -205,7 +289,7 @@ const onMapReady = async () => {
 }
 
 .select-box {
-  width: 350px;
+  min-width: 450px;
   display: flex;
   justify-content: space-evenly;
   flex-direction: row;

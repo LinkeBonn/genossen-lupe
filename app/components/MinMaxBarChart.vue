@@ -28,8 +28,8 @@ const getMax = () => {
   let maxName = "";
   if (data.value && data.value.features) {
     data.value.features.forEach((feature: any) => {
-      if (Number(feature.properties['votes-in-percent']) > maxVote) {
-        maxVote = Number(feature.properties['votes-in-percent']);
+      if (Number(feature.properties['votes-in-percent-resultPdl']) > maxVote) {
+        maxVote = Number(feature.properties['votes-in-percent-resultPdl']);
         maxName = feature.properties['area-name'];
       }
     });
@@ -42,8 +42,8 @@ const getMin = () => {
   let minName = "";
   if (data.value && data.value.features) {
     data.value.features.forEach((feature: any) => {
-      if (Number(feature.properties['votes-in-percent']) < minVote) {
-        minVote = Number(feature.properties['votes-in-percent']);
+      if (Number(feature.properties['votes-in-percent-resultPdl']) < minVote) {
+        minVote = Number(feature.properties['votes-in-percent-resultPdl']);
         minName = feature.properties['area-name'];
       }
     });
