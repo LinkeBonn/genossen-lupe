@@ -36,6 +36,10 @@ const links = ref([
         to: '/wahlergebniss/landtagswahl-2017',
       },
       {
+        label: 'Kommunalwahl 2014',
+        to: '/wahlergebniss/kommunalwahl-2014',
+      },
+      {
         label: 'Europawahl 2014',
         to: '/wahlergebniss/europawahl-2014',
       },
