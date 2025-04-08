@@ -8,10 +8,42 @@ on:
 
 jobs:
 
-  install:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
 
     steps:
-    - uses: wiktor-k/setup-just@v1
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Setup just
+      uses: wiktor-k/setup-just@v1
+
     - name: Install Dependecies
       run: just install
+
+    - name: Build Web-App
+      run: just build
+
+    - name: Log in to the Container registry
+      uses: docker/login-action@v3
+      with:
+        registry: ${{ vars.REGISTRY }}
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Extract metadata (tags, labels) for Docker
+      id: meta
+      uses: docker/metadata-action@v5
+      with:
+        images: ${{ vars.REGISTRY }}/${{ vars.IMAGE_NAME }}
+
+    - name: Build Docker Image
+      uses: docker/build-push-action@v6
+      with:
+        context: ./components/web-app
+        push: true
+        tags: ${{ steps.meta.outputs.tags }}
+        labels: ${{ steps.meta.outputs.labels }}
