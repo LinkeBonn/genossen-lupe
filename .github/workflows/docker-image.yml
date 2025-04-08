@@ -1,0 +1,17 @@
+name: Docker Image CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+
+  install:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: wiktor-k/setup-just@v1
+    - name: Install Dependecies
+      run: just install
