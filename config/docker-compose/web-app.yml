@@ -1,0 +1,20 @@
+services:
+  web-app:
+    build:
+      context: ${PROJECT_ROOT}/components/node
+      target: dev
+    restart: unless-stopped
+    user: "${UID}:${GID}"
+    userns_mode: host
+    working_dir: /web-app
+    environment:
+        - HOME=/tmp
+    ports:
+      - "24678:24678"
+      - "${PORT_WEB_APP}:3000"
+    volumes:
+      - ${PROJECT_ROOT}/components/web-app:/web-app:cached
+      - ${PROJECT_ROOT}/artifacts:/artifacts
+    command: yarn dev
+    tmpfs:
+        - /tmp:exec

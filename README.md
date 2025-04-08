@@ -1,75 +1,37 @@
-# Nuxt UI Starter
-
-Look at [Nuxt docs](https://nuxt.com/docs/getting-started/introduction) and [Nuxt UI docs](https://ui.nuxt.com) to learn more.
+# Genossen-Lupe
 
 ## Setup
 
 Make sure to install the dependencies:
 
 ```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
+# docker-compose needs to be running on your machine
+just install
 ```
 
-## Development Server
+## Development
 
-Start the development server on `http://localhost:3000`:
+The environment starts the web-app.
 
 ```bash
 # npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
+just start
 ```
+The web-appcan be accessed in your browser:
+http://localhost:3000/
 
-## Production
-
-Build the application for production:
-
+### Code Checks
 ```bash
-# npm
-npm run build
 
-# pnpm
-pnpm run build
+# check linting
+just lint-check
 
-# yarn
-yarn build
+# check formatting
+just format-check
 
-# bun
-bun run build
+# fixes linting
+just lint-fix
+
+# fixes formatting
+just format-fix
 ```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
